@@ -229,11 +229,11 @@ const Footer: React.FC = () => {
 
         <a
           className="cursor-pointer text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200"
-          href="https://beian.miit.gov.cn"
+          href="https://github.com/pang-lan/qwerty-learner-free/tree/master"
           target="_blank"
           rel="noreferrer"
         >
-          鲁ICP备2022030649号
+          Forked By PangLAN
         </a>
         <span className="select-none rounded bg-slate-200 px-1 text-xs text-slate-600 dark:bg-slate-800 dark:text-slate-400">
           Build <span className="select-all">{LATEST_COMMIT_HASH}</span>
