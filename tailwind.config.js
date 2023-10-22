@@ -57,6 +57,7 @@ module.exports = {
   },
   plugins: [require('@headlessui/tailwindcss'), require('@tailwindcss/forms'), require('daisyui')],
   daisyui: {
+    logs: false,
     themes: [
       {
         mytheme: {

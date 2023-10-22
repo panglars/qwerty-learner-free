@@ -4,6 +4,17 @@ import { calcChapterCount } from '@/utils'
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
+    id: 'panglan',
+    name: 'PangLAN',
+    description: 'PangLAN的词库',
+    category: '英语学习',
+    tags: ['其他'],
+    url: '/dicts/PangLAN.json',
+    length: 863,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'cet4',
     name: 'CET-4',
     description: '大学英语四级词库',

@@ -1,0 +1,3454 @@
+[
+  {
+    "name": "persist",
+    "trans": ["verb: 坚持，持续下去，执着，坚持不懈 noun: 存留"]
+  },
+  {
+    "name": "score",
+    "trans": ["noun: 得分，评分，分数，比分，成绩，分值，乐谱，分，积分 verb: 进球"]
+  },
+  {
+    "name": "slice",
+    "trans": ["noun: 切片，片，薄片，一片，分层 verb: 切"]
+  },
+  {
+    "name": "prerequisite",
+    "trans": ["noun: 前提，前提条件，先决条件，必备条件，必要条件，前提下 adj: 必备"]
+  },
+  {
+    "name": "frustrate",
+    "trans": ["verb: 挫败，阻挠，挫伤 noun: 挫折"]
+  },
+  {
+    "name": "comprehensive",
+    "trans": ["adj: 综合，全面，综合性，全方位，综，完善，完备，整体"]
+  },
+  {
+    "name": "majority",
+    "trans": ["noun: 多数，大多数，大部分，占多数，多数人，大多数人，绝大多数，大部份，绝大部分，广大"]
+  },
+  {
+    "name": "offset",
+    "trans": ["verb: 抵消，偏移，偏移量，抵销，偏置，胶印，弥补，偏，等距，补偿，位移"]
+  },
+  {
+    "name": "additional",
+    "trans": ["adj: 额外，附加，另外，其他，更多，增加，补充，新增，其它"]
+  },
+  {
+    "name": "actual",
+    "trans": ["adj: 实际，真实，实效，现实，真正，实际情况"]
+  },
+  {
+    "name": "interchangeably",
+    "trans": ["adv: 互换，交替"]
+  },
+  {
+    "name": "occupy",
+    "trans": ["verb: 占据，占领，占用，占有，占，抢占，霸占，有事，佔，侵占，居"]
+  },
+  {
+    "name": "scientific",
+    "trans": ["adj: 科学，科学化，科学性，科技，科研"]
+  },
+  {
+    "name": "neutral",
+    "trans": ["adj: 中性，中立，中立型，神经，无关，中和"]
+  },
+  {
+    "name": "storage",
+    "trans": ["noun: 存储，储存，贮存，贮藏，储，储藏，仓储，蓄能，贮，存放，存储器"]
+  },
+  {
+    "name": "vigorous",
+    "trans": ["adj: 轰轰烈烈，蓬勃，有力，大力，旺盛，严厉，充满活力，剧烈，活力，激烈"]
+  },
+  {
+    "name": "agent",
+    "trans": ["noun: 代理，剂，探员，代理人，特工，经纪人，代理商，代办，间谍，主体"]
+  },
+  {
+    "name": "cargo",
+    "trans": ["noun: 货物，货运，货，货机，货舱，货运量，载货"]
+  },
+  {
+    "name": "duration",
+    "trans": ["noun: 工期，期限，时间长短，病程，时间，历时，期间，有效期，期"]
+  },
+  {
+    "name": "exclude",
+    "trans": ["verb: 排除，排斥，排除在外"]
+  },
+  {
+    "name": "boundary",
+    "trans": ["noun: 边界，边，境，界限，界，界线，分界线，边境，境界，界面"]
+  },
+  {
+    "name": "accident",
+    "trans": ["noun: 事故，意外，车祸，意外事故，肇事，偶然，出事"]
+  },
+  {
+    "name": "illustration",
+    "trans": ["noun: 插图，例证，插画，图解，画像"]
+  },
+  {
+    "name": "beam",
+    "trans": ["noun: 梁，束，光束，波束，横梁，大梁，电子束"]
+  },
+  {
+    "name": "ridge",
+    "trans": ["noun: 脊，山脊，岭，嵴，田埂，垄，海岭，坎，里奇"]
+  },
+  {
+    "name": "encompass",
+    "trans": ["verb: 涵盖，包括"]
+  },
+  {
+    "name": "bump",
+    "trans": ["noun: 凹凸，撞，磕碰，肿块，颠簸，撞击，碰撞"]
+  },
+  {
+    "name": "explain",
+    "trans": ["verb: 解释，说明，讲解，阐释，阐述"]
+  },
+  {
+    "name": "craft",
+    "trans": ["noun: 工艺，手艺，门手艺，飞船，工艺品，艇，手工艺，飞行器"]
+  },
+  {
+    "name": "item",
+    "trans": ["noun: 项目，项，条目，物品，物料，商品"]
+  },
+  {
+    "name": "naturally",
+    "trans": ["adv: 自然，自然而然地，自然而然，当然，天生，天然，理所当然"]
+  },
+  {
+    "name": "radical",
+    "trans": ["adj: 激进，根治，基，彻底，根本性，偏激，极端"]
+  },
+  {
+    "name": "appointment",
+    "trans": ["noun: 委任，任命，预约，约会，聘任，任用，获委任，委派，聘用，约定"]
+  },
+  {
+    "name": "eternal",
+    "trans": ["adj: 永恒，永远，千古，永久，永存，永生，不朽，永"]
+  },
+  {
+    "name": "privilege",
+    "trans": ["noun: 特权，权限，荣幸，殊荣，有幸，优待，优先权"]
+  },
+  {
+    "name": "routine",
+    "trans": ["adj: 常规，例行，日常，套路，例行公事 noun: 例程，例行程序，日常工作，惯例"]
+  },
+  {
+    "name": "emphasis",
+    "trans": ["noun: 重点，强调，重视，侧重点，侧重，重，着重，重心，注重"]
+  },
+  {
+    "name": "blame",
+    "trans": ["verb: 责怪，怪，责备，指责，怪罪，归咎，埋怨，谴责 noun: 责任"]
+  },
+  {
+    "name": "disorder",
+    "trans": ["noun: 障碍，紊乱，无序，失调，失序，混乱，疾病，症，乱"]
+  },
+  {
+    "name": "suitable",
+    "trans": ["adj: 合适，适合，适用，适宜，适当，适，相适应，适应"]
+  },
+  {
+    "name": "inevitably",
+    "trans": ["adv: 不可避免地，不可避免，必然，难免，不免，势必"]
+  },
+  {
+    "name": "pine",
+    "trans": ["noun: 松树，松，松木，松枝，青松，松林，松柏，棵松树，杉木 verb: 憔悴"]
+  },
+  {
+    "name": "decline",
+    "trans": ["noun: 下降，衰落，下滑，衰退，衰败，下跌，递减，跌幅，减少 verb: 拒绝"]
+  },
+  {
+    "name": "throughout",
+    "trans": ["prep: 遍及，整个"]
+  },
+  {
+    "name": "examine",
+    "trans": ["verb: 检查，审视，审查，检验，考察，审核，查看"]
+  },
+  {
+    "name": "vacuum",
+    "trans": ["noun: 真空，减压，抽真空，吸尘，吸尘器"]
+  },
+  {
+    "name": "intersection",
+    "trans": ["noun: 交叉口，交集，十字路口，路口，交汇，交叉路口，相交，交点，交会，交叉"]
+  },
+  {
+    "name": "disturb",
+    "trans": ["verb: 打扰，扰乱，打搅，干扰，惊动，骚扰"]
+  },
+  {
+    "name": "reproduce",
+    "trans": ["verb: 重现，繁殖，再现，复制，繁殖后代，繁衍后代，繁衍，再生产"]
+  },
+  {
+    "name": "hurdle",
+    "trans": ["noun: 跨栏，障碍，跨栏跑，栅栏，关卡，门槛，关口"]
+  },
+  {
+    "name": "hire",
+    "trans": ["verb: 雇，雇用，雇佣，聘请，聘用，租用，租，录用，招聘 noun: 出租"]
+  },
+  {
+    "name": "represent",
+    "trans": ["verb: 代表，表示，占"]
+  },
+  {
+    "name": "inherit",
+    "trans": ["verb: 继承，承受，继承遗产，传承，秉承，接手 noun: 承继"]
+  },
+  {
+    "name": "scope",
+    "trans": ["noun: 范围，适用范围，范围内，范畴，范围之内，规模，示波器，幅度"]
+  },
+  {
+    "name": "surpass",
+    "trans": ["verb: 超越，超过，优于，赶超"]
+  },
+  {
+    "name": "acquisition",
+    "trans": ["noun: 习得，收购，采集，习得中，获取，并购，捕获，采访，采购"]
+  },
+  {
+    "name": "prioritize",
+    "trans": ["verb: 优先考虑，优先，优先次序，优先顺序，优先级"]
+  },
+  {
+    "name": "responsibility",
+    "trans": ["noun: 责任，责任感，职责，责任心，承担责任，负责，责，负责任，义务"]
+  },
+  {
+    "name": "wander",
+    "trans": ["verb: 徘徊，漫步，徜徉，游荡，流连，游走，流浪，闲逛，漂移，彷徨，漫游"]
+  },
+  {
+    "name": "mentor",
+    "trans": ["noun: 导师，良师益友，良师，恩师，师父，辅导员"]
+  },
+  {
+    "name": "encourage",
+    "trans": ["verb: 鼓励，激励，助长，鼓舞，促使，促进，提倡"]
+  },
+  {
+    "name": "laboratory",
+    "trans": ["noun: 实验室，实验，化验，化验室，室内，检验"]
+  },
+  {
+    "name": "campus",
+    "trans": ["noun: 校园，校区，高校校园，学校，园区，校"]
+  },
+  {
+    "name": "catch",
+    "trans": ["verb: 赶上，抓住，抓，抓到，接住，捉，捕捉，赶，追，捕获"]
+  },
+  {
+    "name": "comparison",
+    "trans": ["noun: 比较，对比，相比，对照"]
+  },
+  {
+    "name": "lean",
+    "trans": ["adj: 精益，瘦，贫，瘦肉，精干，稀，稀薄，倾斜，精简 verb: 靠"]
+  },
+  {
+    "name": "academic",
+    "trans": ["adj: 学术，学业，学术界，学术性，高校，学者，学历，学科"]
+  },
+  {
+    "name": "contrary",
+    "trans": ["adj: 相反，反之，违背，正好相反，违反，违，逆向 noun: 恰恰相反，反而"]
+  },
+  {
+    "name": "deliberately",
+    "trans": ["adv: 故意，刻意，蓄意，有意，特意，有意识地，成心"]
+  },
+  {
+    "name": "interpretation",
+    "trans": ["noun: 解释，释义，诠释，解读，口译，阐释，解译，传译，演绎，翻译"]
+  },
+  {
+    "name": "clearance",
+    "trans": ["noun: 间隙，游隙，清拆，清关，过关，清除，通关，清理，许可，清"]
+  },
+  {
+    "name": "coordinate",
+    "trans": ["noun: 坐标，坐标系 verb: 协调，配合，统筹"]
+  },
+  {
+    "name": "batch",
+    "trans": ["noun: 批处理，批，批量，批次，间歇，分批，一批，间歇式，成批，批号"]
+  },
+  {
+    "name": "charge",
+    "trans": ["noun: 电荷，负责，收费，充电，费，指控，主管，费用，负责人 verb: 收取，收"]
+  },
+  {
+    "name": "manner",
+    "trans": ["noun: 方式，态度，举止"]
+  },
+  {
+    "name": "theme",
+    "trans": ["noun: 主题，题材，主位，主旋律"]
+  },
+  {
+    "name": "indicate",
+    "trans": ["verb: 表明，指示，注明，显示，表示，标明，指出，指明"]
+  },
+  {
+    "name": "combination",
+    "trans": ["noun: 组合，结合，相结合，联合，合并，融合，综合，整合，复合"]
+  },
+  {
+    "name": "nest",
+    "trans": ["noun: 巢，窝，鸟巢，巢穴，筑巢，鸟窝，蚁穴，蚁巢，嵌套"]
+  },
+  {
+    "name": "resolve",
+    "trans": ["verb: 解决，化解，解析 noun: 决心"]
+  },
+  {
+    "name": "monitor",
+    "trans": ["verb: 监控，监测，监视，监察，监督，监管 noun: 监视器，班长，显示器，监测仪"]
+  },
+  {
+    "name": "solidify",
+    "trans": ["verb: 巩固，固化，凝固，夯实"]
+  },
+  {
+    "name": "decrease",
+    "trans": ["verb: 减少，降低，减小，减弱 noun: 下降，跌幅，减"]
+  },
+  {
+    "name": "interval",
+    "trans": ["noun: 区间，间隔，时间间隔，间距，间隙 adj: 间歇"]
+  },
+  {
+    "name": "electronic",
+    "trans": ["adj: 电子，电"]
+  },
+  {
+    "name": "technique",
+    "trans": ["noun: 技术，工艺，技巧，方法，法"]
+  },
+  {
+    "name": "medical",
+    "trans": ["adj: 医疗，医学，医务，医用，医，医科，医学院，医药，医护"]
+  },
+  {
+    "name": "collapse",
+    "trans": ["noun: 崩溃，倒塌，塌陷，坍塌，崩塌，崩盘，塌，瓦解，解体，倒闭，折叠"]
+  },
+  {
+    "name": "summarize",
+    "trans": ["verb: 总结，概括，综述，概述，汇总，归纳，归纳总结，总而言之"]
+  },
+  {
+    "name": "outer",
+    "trans": ["adj: 外，外部，外层，外在，在外，外表，外围，外面，外侧"]
+  },
+  {
+    "name": "quote",
+    "trans": ["noun: 报价，引号，报价单，名言，句话 verb: 引述，引用，报"]
+  },
+  {
+    "name": "damage",
+    "trans": ["noun: 损伤，损害，损坏，破坏，伤害，损失，受损，危害，破损，害，毁坏"]
+  },
+  {
+    "name": "consume",
+    "trans": ["verb: 消耗，消费，耗费，摄入，食用，耗，占用，进食，吃掉"]
+  },
+  {
+    "name": "extensive",
+    "trans": ["adj: 广泛，粗放，粗放型，丰富，大量，广阔，广，大规模"]
+  },
+  {
+    "name": "trace",
+    "trans": ["noun: 痕量，微量，跟踪，痕迹，迹，踪迹，轨迹 verb: 追踪，追查，追溯"]
+  },
+  {
+    "name": "cherish",
+    "trans": ["verb: 珍惜，好好珍惜，珍爱，珍视，爱护，爱惜，珍藏，缅怀 noun: 惜"]
+  },
+  {
+    "name": "ideal",
+    "trans": ["adj: 理想，完美 noun: 理念"]
+  },
+  {
+    "name": "stroke",
+    "trans": ["noun: 中风，脑卒中，卒中，冲程，行程，笔划，笔画，笔触 verb: 抚摸"]
+  },
+  {
+    "name": "fusion",
+    "trans": ["noun: 融合，聚变，核聚变，熔合，熔，熔融，熔化"]
+  },
+  {
+    "name": "establish",
+    "trans": ["verb: 建立，树立，确立，设立，制定，成立，构建，创建"]
+  },
+  {
+    "name": "position",
+    "trans": ["noun: 位置，地位，立场，职位，定位，岗位，姿势，位，状况"]
+  },
+  {
+    "name": "forge",
+    "trans": ["verb: 伪造，打造，结成 noun: 锻造，锻"]
+  },
+  {
+    "name": "conference",
+    "trans": ["noun: 会议，大会，研讨会，发布会，年会，开会"]
+  },
+  {
+    "name": "velocity",
+    "trans": ["noun: 速度，流速，速，速率，测速，风速"]
+  },
+  {
+    "name": "connectivity",
+    "trans": ["noun: 连通性，连接，连通度，连通，连线"]
+  },
+  {
+    "name": "suppose",
+    "trans": ["verb: 假设，想，猜，猜想，假定，假如"]
+  },
+  {
+    "name": "interaction",
+    "trans": ["noun: 互动，相互作用，交互，交互作用，交往，联动，交流"]
+  },
+  {
+    "name": "feat",
+    "trans": ["noun: 壮举，专长，功绩，技艺，创举，本领"]
+  },
+  {
+    "name": "mechanism",
+    "trans": ["noun: 机制，机理，机构，机械"]
+  },
+  {
+    "name": "assignment",
+    "trans": ["noun: 分配，赋值，任务，转让，指派，作业，分派，委派，配置"]
+  },
+  {
+    "name": "premium",
+    "trans": ["noun: 溢价，保费，地价，保险费，优质，高档，高级，高端，付费"]
+  },
+  {
+    "name": "composition",
+    "trans": ["noun: 组成，作文，成分，组合物，构图，构成，成份，组分，组合，合成"]
+  },
+  {
+    "name": "imagination",
+    "trans": ["noun: 想象力，想象，想像力，想像，幻想，设想，幻觉"]
+  },
+  {
+    "name": "abstraction",
+    "trans": ["noun: 抽象，抽象概念，提取，提炼"]
+  },
+  {
+    "name": "notify",
+    "trans": ["verb: 通知，通报，告知"]
+  },
+  {
+    "name": "proceed",
+    "trans": ["verb: 进行，继续，着手"]
+  },
+  {
+    "name": "injection",
+    "trans": ["noun: 注射液，注射，注入，注塑，喷射，注，喷油，喷，注射剂，注水，针"]
+  },
+  {
+    "name": "spectrum",
+    "trans": ["noun: 谱，频谱，光谱，频，波谱，谱系，光谱分析"]
+  },
+  {
+    "name": "contain",
+    "trans": ["verb: 包含，含有，含，遏制，容纳"]
+  },
+  {
+    "name": "tour",
+    "trans": ["noun: 旅游，巡演，游览，之旅，巡回赛，游，巡回演出，参观，巡回，旅行，观光"]
+  },
+  {
+    "name": "graphic",
+    "trans": ["adj: 图形，平面，图文，图解，图表，图片，绘图，印刷"]
+  },
+  {
+    "name": "preserve",
+    "trans": ["verb: 保存，保留，保持，保护，维护，维持，保全，保住 noun: 保护区"]
+  },
+  {
+    "name": "transfer",
+    "trans": ["noun: 转移，转让，传递，传输，转会，迁移，传送，质，转换，移植 verb: 转"]
+  },
+  {
+    "name": "claim",
+    "trans": ["noun: 索赔，申索，主张，说法，声明，请求 verb: 声称，宣称，称"]
+  },
+  {
+    "name": "immigration",
+    "trans": ["noun: 移民，入境事务，入境，人民入境，出入境，人民入境事务，入境处，入境者"]
+  },
+  {
+    "name": "finance",
+    "trans": ["noun: 金融，财务，财政，融资，金融业，理财，财经，财政部，资金 verb: 资助"]
+  },
+  {
+    "name": "blanket",
+    "trans": ["noun: 毯子，毯，毛毯，橡皮布，条毯子，铺盖，毡，棉被"]
+  },
+  {
+    "name": "obtain",
+    "trans": ["verb: 获得，获取，取得，得到，索取，得出"]
+  },
+  {
+    "name": "consumption",
+    "trans": ["noun: 消费，消耗，消耗量，消费量，耗，食用，用量"]
+  },
+  {
+    "name": "conduct",
+    "trans": ["verb: 进行，开展 noun: 行为，操守，品行"]
+  },
+  {
+    "name": "bypass",
+    "trans": ["noun: 旁路，搭桥，绕道，旁通，心脏搭桥，绕行 verb: 绕过，绕开，避开"]
+  },
+  {
+    "name": "attempt",
+    "trans": ["noun: 尝试，企图，试图，试，未遂，意图"]
+  },
+  {
+    "name": "literal",
+    "trans": ["adj: 字面，文字，直译，文本，字面上"]
+  },
+  {
+    "name": "commentary",
+    "trans": ["noun: 评论，评注，解说词，述评，解说，评述，评，注释，述"]
+  },
+  {
+    "name": "posture",
+    "trans": ["noun: 姿势，姿态，体位，体态，坐姿，态势，身姿，架势，姿，位姿"]
+  },
+  {
+    "name": "instance",
+    "trans": ["noun: 实例，举例来说，审，例子，例，事例，范例，例如"]
+  },
+  {
+    "name": "flexibility",
+    "trans": ["noun: 灵活性，柔韧性，灵活，弹性，柔性，柔韧，适应性，柔"]
+  },
+  {
+    "name": "distribution",
+    "trans": ["noun: 分布，分配，配电，配送，分销，经销，分发，配，布局，配置，销售"]
+  },
+  {
+    "name": "mention",
+    "trans": ["verb: 提到，提及，提，提起，更何况，何况，客气"]
+  },
+  {
+    "name": "popularity",
+    "trans": ["noun: 普及，人气，知名度，声望，流行，大众化，受欢迎，人缘，通俗"]
+  },
+  {
+    "name": "arrest",
+    "trans": ["verb: 逮捕，抓 noun: 拘捕，骤停，被捕，停搏，抓捕，扣押"]
+  },
+  {
+    "name": "strike",
+    "trans": ["noun: 罢工，打击，击，攻击，袭击"]
+  },
+  {
+    "name": "shield",
+    "trans": ["noun: 盾，盾构，盾牌，屏蔽，护盾，防护罩，盾构法，罩，掩护"]
+  },
+  {
+    "name": "glimpse",
+    "trans": ["noun: 一瞥，瞥见，掠影，睹，窥，窥见，管窥"]
+  },
+  {
+    "name": "competitive",
+    "trans": ["adj: 竞争，竞争力，竞争性，具竞争力，竞技，竞争激烈，具有竞争性，具竞争性，竞赛，激烈"]
+  },
+  {
+    "name": "tackle",
+    "trans": ["verb: 解决，对付，应对，应付 noun: 铲球，钓具"]
+  },
+  {
+    "name": "adapt",
+    "trans": ["verb: 适应，相适应，顺应，调整，改编"]
+  },
+  {
+    "name": "rental",
+    "trans": ["adj: 租赁，出租，租金，租住，租，租房，租车，租用，租售，租借"]
+  },
+  {
+    "name": "audience",
+    "trans": ["noun: 观众，听众，受众，观众席，观众朋友们，读者"]
+  },
+  {
+    "name": "essential",
+    "trans": ["adj: 必不可少，本质，必要，基本，必需，至关重要，精，重要，关键，根本"]
+  },
+  {
+    "name": "decade",
+    "trans": ["noun: 十年，十年间，十年内，数十年，年代，几十年"]
+  },
+  {
+    "name": "complementary",
+    "trans": ["adj: 互补，相辅相成，互补性，补充，配套，辅，余，补"]
+  },
+  {
+    "name": "otherwise",
+    "trans": ["adv: 否则，不然，要不然，不然的话，除此之外，要不，另外，另"]
+  },
+  {
+    "name": "investigate",
+    "trans": ["verb: 探讨，调查，观察，考察，探索"]
+  },
+  {
+    "name": "niche",
+    "trans": ["noun: 利基，小生，壁龛，细分"]
+  },
+  {
+    "name": "term",
+    "trans": ["noun: 学期，术语，任期，期限，词，名词，长期，项，期"]
+  },
+  {
+    "name": "addition",
+    "trans": ["noun: 除了，此外，另外，除，加法，添加，加，之外，加入，同时"]
+  },
+  {
+    "name": "incorporate",
+    "trans": ["verb: 纳入，合并，融入，将 noun: 一体化"]
+  },
+  {
+    "name": "gender",
+    "trans": ["noun: 性别，两性，男女"]
+  },
+  {
+    "name": "precision",
+    "trans": ["noun: 精度，精密，精密度，精确，精确度，精准，精，精确性，精细"]
+  },
+  {
+    "name": "purpose",
+    "trans": ["noun: 宗旨，目的，用途，目标，故意，意图"]
+  },
+  {
+    "name": "mansion",
+    "trans": ["noun: 豪宅，大厦，府，大宅，公馆，宅邸，官邸，大楼，别墅"]
+  },
+  {
+    "name": "devote",
+    "trans": ["verb: 投入，奉献，投放"]
+  },
+  {
+    "name": "improvement",
+    "trans": ["noun: 改进，改善，改良，提高，完善，改造，进步，提升"]
+  },
+  {
+    "name": "promise",
+    "trans": ["noun: 承诺，诺言，许诺，应许，允诺，誓言 verb: 答应，保证，发誓"]
+  },
+  {
+    "name": "promptly",
+    "trans": ["adv: 及时，迅速，当即，从速，立即，尽快，立刻"]
+  },
+  {
+    "name": "criterion",
+    "trans": ["noun: 准则，判据，标准，准绳，规范，尺度"]
+  },
+  {
+    "name": "moisture",
+    "trans": ["noun: 水分，湿气，湿度，防潮，水份，含水量，湿，滋润，水汽，潮湿"]
+  },
+  {
+    "name": "assemble",
+    "trans": ["verb: 组装，装配，集合，召集，汇编，集会 noun: 集聚"]
+  },
+  {
+    "name": "ubiquitous",
+    "trans": ["adj: 无处不在，无所不在，普适，随处可见，泛"]
+  },
+  {
+    "name": "discovery",
+    "trans": ["noun: 发现，探索，发掘"]
+  },
+  {
+    "name": "elegant",
+    "trans": ["adj: 优雅，典雅，高雅，幽雅，雅致，飘逸，淡雅，文雅，精美，雅，优美"]
+  },
+  {
+    "name": "sensitive",
+    "trans": ["adj: 敏感，灵敏，敏，敏感性，感光，敏感度，灵敏度，敏锐，感性"]
+  },
+  {
+    "name": "tone",
+    "trans": ["noun: 语气，基调，语调，音，音调，口吻，色调，声调，口气，调"]
+  },
+  {
+    "name": "fee",
+    "trans": ["noun: 费，费用，收费，手续费，收取费用，学费，缴费，付费"]
+  },
+  {
+    "name": "isolate",
+    "trans": ["verb: 隔离，孤立，分离，隔离开来，隔绝 noun: 分离株"]
+  },
+  {
+    "name": "technically",
+    "trans": ["adv: 严格说来，技术，理论上，技术性"]
+  },
+  {
+    "name": "assure",
+    "trans": ["verb: 保证，确保"]
+  },
+  {
+    "name": "massive",
+    "trans": ["adj: 大规模，大量，海量，巨大，庞大，块状，巨额，巨型，大型"]
+  },
+  {
+    "name": "behavior",
+    "trans": ["noun: 行为，性能，特性，举止"]
+  },
+  {
+    "name": "robust",
+    "trans": ["adj: 鲁棒，健壮，稳健，鲁棒性，强劲，强健，粗壮，强大，健全，强有力，可靠"]
+  },
+  {
+    "name": "lecture",
+    "trans": ["noun: 讲座，演讲，讲课，讲演，课，上课 adj: 课堂 verb: 教训"]
+  },
+  {
+    "name": "credential",
+    "trans": ["noun: 凭据，凭证，国书，证件"]
+  },
+  {
+    "name": "grave",
+    "trans": ["noun: 坟墓，墓前，墓穴，墓，坟前，坟，墓地 adj: 严重，严峻，严肃"]
+  },
+  {
+    "name": "adverse",
+    "trans": ["adj: 不良，不利，逆向，负面，恶劣，有害，逆"]
+  },
+  {
+    "name": "capable",
+    "trans": ["adj: 能干，能够，能力，精干，帆"]
+  },
+  {
+    "name": "dive",
+    "trans": ["noun: 潜水，俯冲，潜，跳水，潜入"]
+  },
+  {
+    "name": "pardon",
+    "trans": ["noun: 赦免，原谅，特赦，赦，宽恕，饶恕 verb: 请原谅"]
+  },
+  {
+    "name": "vertical",
+    "trans": ["adj: 垂直，立式，竖向，纵向，垂向，竖直，竖，纵，立，直立，直"]
+  },
+  {
+    "name": "diminish",
+    "trans": ["verb: 减少，贬低，削弱，减弱，减小"]
+  },
+  {
+    "name": "enterprise",
+    "trans": ["noun: 企业，事业"]
+  },
+  {
+    "name": "convention",
+    "trans": ["noun: 公约，大会，惯例，约定，会议，代表大会，会展，习俗，常规，协定"]
+  },
+  {
+    "name": "sophisticated",
+    "trans": ["adj: 精良，复杂，成熟，尖端，精密，老练，先进，精巧，精致，精细"]
+  },
+  {
+    "name": "cable",
+    "trans": ["noun: 电缆，索，有线，有线电视，线缆，缆，缆索，拉索，光缆，电报，线"]
+  },
+  {
+    "name": "entry",
+    "trans": ["noun: 条目，入境，入口，入门，进入，录入，入职，输入，项，入"]
+  },
+  {
+    "name": "outstanding",
+    "trans": ["adj: 优秀，杰出，突出，未偿还，出色，卓越，优异，卓著，出众，显著"]
+  },
+  {
+    "name": "widespread",
+    "trans": ["adj: 广泛，普遍，广为流传，普及，广，大规模"]
+  },
+  {
+    "name": "restore",
+    "trans": ["verb: 恢复，还原，挽回，重建，修复，重塑，回复"]
+  },
+  {
+    "name": "blank",
+    "trans": ["adj: 空白，毛坯，坯料，坯，空，留空，空格，茫然"]
+  },
+  {
+    "name": "phase",
+    "trans": ["noun: 相，相位，阶段，期，位相，相中"]
+  },
+  {
+    "name": "climate",
+    "trans": ["noun: 气候，气氛，氛围，天气"]
+  },
+  {
+    "name": "replacement",
+    "trans": ["noun: 更换，置换术，置换，替代，替换，更新换代，重置，替代品，取代，代替"]
+  },
+  {
+    "name": "trig",
+    "trans": ["noun: 三角"]
+  },
+  {
+    "name": "exception",
+    "trans": ["noun: 例外，异常，除外，除了，特例，除"]
+  },
+  {
+    "name": "soar",
+    "trans": ["verb: 翱翔，飙升，高飞，飞翔，猛增，飞涨，腾飞，激增"]
+  },
+  {
+    "name": "fabulous",
+    "trans": ["adj: 神话般，精彩，难以置信，美妙，棒极，传说"]
+  },
+  {
+    "name": "violence",
+    "trans": ["noun: 暴力，暴力事件，暴力行为，暴力冲突，暴行，暴乱，暴，武力"]
+  },
+  {
+    "name": "vast",
+    "trans": ["adj: 广阔，辽阔，广大，广袤，浩瀚，茫茫，巨大，庞大"]
+  },
+  {
+    "name": "implement",
+    "trans": ["verb: 实施，实现，落实，贯彻，执行，实行，推行"]
+  },
+  {
+    "name": "fancy",
+    "trans": ["adj: 看中，花哨，幻想，高档，奇特，豪华，想象，高级 verb: 看上"]
+  },
+  {
+    "name": "badge",
+    "trans": ["noun: 徽章，警徽，胸章，证章，徽，证件"]
+  },
+  {
+    "name": "hatch",
+    "trans": ["noun: 舱口，孵化，哈奇，舱门，舱口盖，舱盖，舱 verb: 孵"]
+  },
+  {
+    "name": "burnout",
+    "trans": ["noun: 倦怠，心灰意懒，燃尽，过度疲劳，心力交瘁，枯竭，烧损，精疲力竭，烧坏，烧毁"]
+  },
+  {
+    "name": "devil",
+    "trans": ["noun: 魔鬼，恶魔，鬼子，撒旦，魔，魔王，妖怪，鬼，恶棍"]
+  },
+  {
+    "name": "horror",
+    "trans": ["noun: 恐怖，恐惧，惊恐，惊骇，惊悚"]
+  },
+  {
+    "name": "collateral",
+    "trans": ["noun: 抵押品，担保品，抵押，附带，络，担保，侧枝，间接"]
+  },
+  {
+    "name": "definition",
+    "trans": ["noun: 定义，界定，清晰度，概念"]
+  },
+  {
+    "name": "mature",
+    "trans": ["adj: 成熟，熟"]
+  },
+  {
+    "name": "regression",
+    "trans": ["noun: 回归，倒退，消退"]
+  },
+  {
+    "name": "scrub",
+    "trans": ["noun: 擦洗，灌丛，磨砂，刷洗，灌木丛 verb: 擦"]
+  },
+  {
+    "name": "statement",
+    "trans": ["noun: 语句，声明，份声明，陈述，发表声明，报表，说法，表，发言"]
+  },
+  {
+    "name": "evaluation",
+    "trans": ["noun: 评价，评估，评定，评判，测评，考核，评审，鉴定"]
+  },
+  {
+    "name": "resistant",
+    "trans": ["adj: 耐，耐药，抗，抗药性，抵抗，抵抗力，耐药性，抗病，抗拒，防，反抗"]
+  },
+  {
+    "name": "tend",
+    "trans": ["verb: 往往，倾向，趋向，常常"]
+  },
+  {
+    "name": "gross",
+    "trans": ["adj: 恶心，总量，总，总额，格罗斯，毛，总值，粗，大体"]
+  },
+  {
+    "name": "uniform",
+    "trans": ["adj: 均匀，统一，一致，匀，划一 noun: 制服，军装，校服，军服"]
+  },
+  {
+    "name": "deserve",
+    "trans": ["verb: 应得，值得，活该，应有，配"]
+  },
+  {
+    "name": "critical",
+    "trans": ["adj: 临界，关键，批判，至关重要，危重，危急，批评，关键性，重要，挑剔"]
+  },
+  {
+    "name": "declaration",
+    "trans": ["noun: 宣言，声明，申报，报关，宣告，宣布"]
+  },
+  {
+    "name": "communicate",
+    "trans": ["verb: 沟通，交流，传达，通信，通讯"]
+  },
+  {
+    "name": "employer",
+    "trans": ["noun: 雇主，用人单位，老板，业主"]
+  },
+  {
+    "name": "heap",
+    "trans": ["noun: 堆，堆积，堆栈"]
+  },
+  {
+    "name": "separate",
+    "trans": ["adj: 单独，分开，独立，分离，分别，另，隔离 verb: 分隔"]
+  },
+  {
+    "name": "relevant",
+    "trans": ["adj: 相关，有关，相应"]
+  },
+  {
+    "name": "exceed",
+    "trans": ["verb: 超过，超逾，超出，超越，超"]
+  },
+  {
+    "name": "purchase",
+    "trans": ["noun: 购买，采购，购，购置，选购，收购，进货，购房，订购，购物 verb: 买"]
+  },
+  {
+    "name": "adjust",
+    "trans": ["verb: 调整，调节，适应，调"]
+  },
+  {
+    "name": "inspire",
+    "trans": ["verb: 激发，激励，启发，鼓舞，启迪，鼓励，激起"]
+  },
+  {
+    "name": "intrigue",
+    "trans": ["noun: 阴谋诡计，阴谋，勾心斗角"]
+  },
+  {
+    "name": "folk",
+    "trans": ["noun: 民间，民俗，民族民间，民谣，民歌，民族，民"]
+  },
+  {
+    "name": "intelligent",
+    "trans": ["adj: 智能，智能化，聪明，智慧，智力，明智"]
+  },
+  {
+    "name": "engage",
+    "trans": ["verb: 搞，从事，聘请，参与，进行，聘用"]
+  },
+  {
+    "name": "emphasize",
+    "trans": ["verb: 强调，注重，着重"]
+  },
+  {
+    "name": "modification",
+    "trans": ["noun: 改性，修改，修饰，改造，修正，改装，改进，变质，变更"]
+  },
+  {
+    "name": "figure",
+    "trans": ["noun: 图，身影，数字，人物，身材，图形，形象"]
+  },
+  {
+    "name": "directly",
+    "trans": ["adv: 直接，直，好坏直接"]
+  },
+  {
+    "name": "inheritance",
+    "trans": ["noun: 继承，传承，遗产，遗传，继承权，遗产继承，承继"]
+  },
+  {
+    "name": "assume",
+    "trans": ["verb: 假设，承担，假定，猜，设想，以为，猜想"]
+  },
+  {
+    "name": "campaign",
+    "trans": ["noun: 竞选，运动，战役，竞选活动，活动，行动，作战，宣传"]
+  },
+  {
+    "name": "various",
+    "trans": ["adj: 各种，各，各个，各类，不同，各项，各种各样，多种，种种，多个"]
+  },
+  {
+    "name": "satisfactory",
+    "trans": ["adj: 满意，令人满意，尽如人意，圆满，理想"]
+  },
+  {
+    "name": "aspect",
+    "trans": ["noun: 方面，环节，一方面，层面，一面，角度，局面"]
+  },
+  {
+    "name": "productivity",
+    "trans": ["noun: 生产力，生产率，生产力促进，产能，工作效率，生产能力，劳动生产率，效率，增值，产量"]
+  },
+  {
+    "name": "consent",
+    "trans": ["noun: 同意，征得，许可"]
+  },
+  {
+    "name": "circuit",
+    "trans": ["noun: 电路，回路，线路，巡回，赛道，路"]
+  },
+  {
+    "name": "dependent",
+    "trans": ["adj: 依赖，依赖性，相依，供养，从属，相关，依附，依靠，属"]
+  },
+  {
+    "name": "accord",
+    "trans": ["noun: 雅阁，协议，协定，合意"]
+  },
+  {
+    "name": "measure",
+    "trans": ["noun: 措施，度量，测度，计量，手段，检测，对策 verb: 衡量，测量，测定"]
+  },
+  {
+    "name": "activate",
+    "trans": ["verb: 激活，启动，活化，盘活，开动，启用"]
+  },
+  {
+    "name": "individual",
+    "trans": ["adj: 个人，个体，个别，单个，单独，各个，个性化，个性，独立"]
+  },
+  {
+    "name": "viable",
+    "trans": ["adj: 可行，切实可行，存活，可行性，生命力"]
+  },
+  {
+    "name": "proportion",
+    "trans": ["noun: 比例，比重，所占比例，配比，比率"]
+  },
+  {
+    "name": "cast",
+    "trans": ["verb: 投，施放，投射，赶 noun: 铸，铸造，强制转换，铸态，演员"]
+  },
+  {
+    "name": "seek",
+    "trans": ["verb: 寻求，寻找，谋求，追求，找，求，征求，征询，找寻"]
+  },
+  {
+    "name": "inactive",
+    "trans": ["adj: 无效，怠惰，无为，懈怠，灭活 noun: 闲置"]
+  },
+  {
+    "name": "mental",
+    "trans": ["adj: 心理，精神，心智，脑力，精神病，智力"]
+  },
+  {
+    "name": "ritual",
+    "trans": ["noun: 仪式，礼，礼仪，祭祀，例行公事，惯例，典礼，礼节"]
+  },
+  {
+    "name": "asset",
+    "trans": ["noun: 资产，财富，财产"]
+  },
+  {
+    "name": "supply",
+    "trans": ["noun: 供应，供给，供货，补给，货源，供，供电，电源，供水 verb: 提供"]
+  },
+  {
+    "name": "contrast",
+    "trans": ["noun: 对比，对比度，反差，相反，造影，对照，相比之下，相比，衬，相对"]
+  },
+  {
+    "name": "crucial",
+    "trans": ["adj: 至关重要，关键，重要，关键性，决定性，至关紧要，要害"]
+  },
+  {
+    "name": "pearl",
+    "trans": ["noun: 珍珠，明珠，珠儿，珍珠号，珠，颗珍珠，珀尔，珠光，颗明珠，珠江"]
+  },
+  {
+    "name": "largely",
+    "trans": ["adv: 大程度上，基本上，主要，大部分，大体上，大致，大多，大大"]
+  },
+  {
+    "name": "distance",
+    "trans": ["noun: 距离，远程，远处，远方，距，远距离，路程，间距，远"]
+  },
+  {
+    "name": "spark",
+    "trans": ["noun: 火花，星火，电火花，放电，点火 verb: 引发，点燃，激起"]
+  },
+  {
+    "name": "eligible",
+    "trans": ["adj: 合资格，资格，符合资格，合格"]
+  },
+  {
+    "name": "increase",
+    "trans": ["verb: 增加，提高，加大，增强，提升 noun: 增长，增大，增幅，增，上升，加"]
+  },
+  {
+    "name": "fluent",
+    "trans": ["adj: 流利，流畅，通顺，一口流利，说一口流利，连贯，顺畅 noun: 熟练"]
+  },
+  {
+    "name": "facility",
+    "trans": ["noun: 设施，设备，工厂，装置"]
+  },
+  {
+    "name": "eliminate",
+    "trans": ["verb: 消除，排除，消灭，杜绝，消，清除，淘汰，除去，取消，去除"]
+  },
+  {
+    "name": "increasingly",
+    "trans": ["adv: 日益，越来越，日趋，愈加，愈来愈，日渐，愈发，越发，逐渐"]
+  },
+  {
+    "name": "integral",
+    "trans": ["adj: 积分，整体，不可分割，整数，不可或缺，整，一体化，完整，积"]
+  },
+  {
+    "name": "incredible",
+    "trans": ["adj: 令人难以置信，难以置信，不可思议，惊人，置信，难以想象，了不起，神奇"]
+  },
+  {
+    "name": "underlie",
+    "trans": ["verb: 基础"]
+  },
+  {
+    "name": "execute",
+    "trans": ["verb: 执行，处决，处死，实行，施行"]
+  },
+  {
+    "name": "enclosure",
+    "trans": ["noun: 外壳，圈地，围护，围护结构，机箱，围栏，附件，箱体，围墙，笼子里"]
+  },
+  {
+    "name": "dedicate",
+    "trans": ["verb: 奉献，献出，献，献上，献给"]
+  },
+  {
+    "name": "anchor",
+    "trans": ["noun: 锚，锚杆，锚固，主播，地脚，锚碇，抛锚，主持人 verb: 锚定"]
+  },
+  {
+    "name": "oxygen",
+    "trans": ["noun: 氧，氧气，含氧，耗氧，吸氧，缺氧"]
+  },
+  {
+    "name": "deliver",
+    "trans": ["verb: 交付，提供，送，传递，交货，运送，救"]
+  },
+  {
+    "name": "operator",
+    "trans": ["noun: 算子，运算符，操作员，接线员，运营商，操作符，经营者，算符，营办商，操作"]
+  },
+  {
+    "name": "cart",
+    "trans": ["noun: 车，推车，手推车，大车，牛车，马车，小车，车子"]
+  },
+  {
+    "name": "opportunistic",
+    "trans": ["adj: 机会主义，投机取巧，伺机，投机"]
+  },
+  {
+    "name": "pattern",
+    "trans": ["noun: 模式，格局，图案，花纹，方式，形态，规律，型，图形"]
+  },
+  {
+    "name": "luxury",
+    "trans": ["noun: 豪华，奢侈，奢侈品，奢华，豪华型，高档，华贵，豪宅，名贵"]
+  },
+  {
+    "name": "semiconductor",
+    "trans": ["noun: 半导体"]
+  },
+  {
+    "name": "colleague",
+    "trans": ["noun: 同事，同僚，同行，同仁"]
+  },
+  {
+    "name": "incredibly",
+    "trans": ["adv: 令人难以置信，居然，难以置信，不可思议，极其，无比，极为"]
+  },
+  {
+    "name": "advice",
+    "trans": ["noun: 建议，忠告，意见，劝告，咨询"]
+  },
+  {
+    "name": "generally",
+    "trans": ["adv: 一般，普遍，通常，一般来说，大致，一般而言，大体上，总的来说，总体"]
+  },
+  {
+    "name": "bind",
+    "trans": ["verb: 绑定，捆住，装订，绑，约束，捆绑，束缚"]
+  },
+  {
+    "name": "recipe",
+    "trans": ["noun: 食谱，配方，菜谱，秘方，方，处方，秘诀，诀窍"]
+  },
+  {
+    "name": "agency",
+    "trans": ["noun: 代理，机构，签约，局，署，中介，机关，社，厅，部门"]
+  },
+  {
+    "name": "grand",
+    "trans": ["adj: 盛大，隆重，宏伟，宏大，豪华，万，伟大，块 noun: 大，侠"]
+  },
+  {
+    "name": "probe",
+    "trans": ["noun: 探针，探头，探测器，探测，探索，探查，探究"]
+  },
+  {
+    "name": "specific",
+    "trans": ["adj: 特定，具体，特异性，特殊，特异，特有，明确，特别，专用，指定，比"]
+  },
+  {
+    "name": "transcript",
+    "trans": ["noun: 谈话全文，成绩单，誊本，誊，转录，笔录，抄本，全文"]
+  },
+  {
+    "name": "justify",
+    "trans": ["verb: 证明，辩解，理由，辩护，合理化"]
+  },
+  {
+    "name": "patent",
+    "trans": ["noun: 专利，专利权，申请专利"]
+  },
+  {
+    "name": "emergency",
+    "trans": ["noun: 紧急，应急，急诊，急救，紧急情况，紧急状态，急症，紧急事件，紧急事故，紧急情况下，突发事件"]
+  },
+  {
+    "name": "adopt",
+    "trans": ["verb: 采用，采取，采纳，收养，领养，采"]
+  },
+  {
+    "name": "procedure",
+    "trans": ["noun: 程序，过程，议事，流程，手续，工序，步骤，手术，工艺，做法"]
+  },
+  {
+    "name": "concern",
+    "trans": ["noun: 关注，关心，关怀，关切，担忧，担心，忧虑"]
+  },
+  {
+    "name": "original",
+    "trans": ["adj: 原始，原，原来，原有，原创，原装，原件，最初，原先，原本，初始"]
+  },
+  {
+    "name": "attach",
+    "trans": ["verb: 附加，附上，附，附着，重视，附有"]
+  },
+  {
+    "name": "wrap",
+    "trans": ["verb: 包裹，包装，包，封装 noun: 裹，缠绕"]
+  },
+  {
+    "name": "allocate",
+    "trans": ["verb: 分配，拨出，调拨，编配，调配，分派，拨"]
+  },
+  {
+    "name": "lime",
+    "trans": ["noun: 石灰，酸橙，青柠，莱姆，生石灰，柠檬，钙，石灰石 adj: 灰"]
+  },
+  {
+    "name": "ecosystem",
+    "trans": ["noun: 生态"]
+  },
+  {
+    "name": "temporary",
+    "trans": ["adj: 临时，暂时，临时性，暂，短暂，一时，短期，临"]
+  },
+  {
+    "name": "parcel",
+    "trans": ["noun: 包裹，包裹寄，邮包，地块，不可或缺"]
+  },
+  {
+    "name": "firm",
+    "trans": ["noun: 坚定，公司，事务所，商行，企业，牢固，坚决，坚实，实，坚固，坚强"]
+  },
+  {
+    "name": "distaste",
+    "trans": ["noun: 厌恶"]
+  },
+  {
+    "name": "chunk",
+    "trans": ["noun: 大块，块，区块"]
+  },
+  {
+    "name": "extreme",
+    "trans": ["adj: 极端，极度，极限，偏激，极值，极，极其 noun: 极致"]
+  },
+  {
+    "name": "alert",
+    "trans": ["adj: 警报，警觉，警戒，警惕，戒备，提醒，警告，警示 noun: 预警，报警 verb: 通知"]
+  },
+  {
+    "name": "financial",
+    "trans": ["adj: 金融，财务，财政，理财，经济，资金，融资 noun: 财经"]
+  },
+  {
+    "name": "fashion",
+    "trans": ["noun: 时尚，时装，时尚界，服装，流行，方式，风尚，时髦，服饰，潮流"]
+  },
+  {
+    "name": "instant",
+    "trans": ["adj: 即时，速溶，瞬时，即刻，立即，实时，方便 noun: 瞬间，一瞬间"]
+  },
+  {
+    "name": "giant",
+    "trans": ["noun: 巨人，巨头，业巨头，巨星 adj: 巨，巨型，巨大，大型，庞大"]
+  },
+  {
+    "name": "maintain",
+    "trans": ["verb: 保持，维持，维护，维系，保养，维修"]
+  },
+  {
+    "name": "respond",
+    "trans": ["verb: 回应，响应，作出回应，作出响应，反应，做出回应，回复，回答，应对，答复"]
+  },
+  {
+    "name": "voltage",
+    "trans": ["noun: 电压，压"]
+  },
+  {
+    "name": "calculate",
+    "trans": ["verb: 计算，算，测算 noun: 算了"]
+  },
+  {
+    "name": "ease",
+    "trans": ["verb: 缓解，减轻，缓和，纾缓，放松 noun: 轻松，易于，便于，方便，放心"]
+  },
+  {
+    "name": "reuse",
+    "trans": ["noun: 重用，复用，可重用"]
+  },
+  {
+    "name": "drag",
+    "trans": ["verb: 拖动，拖，鼠标拖动，拖曳，拖拽 noun: 阻力，拖累，拖放，阻"]
+  },
+  {
+    "name": "encounter",
+    "trans": ["verb: 遇到，碰到，遇，遭到，遇见 noun: 遭遇，邂逅，相遇"]
+  },
+  {
+    "name": "snooze",
+    "trans": ["noun: 贪睡，打盹，小睡"]
+  },
+  {
+    "name": "utility",
+    "trans": ["noun: 效用，实用程序，实用工具，实用，公用事业，功利，电站，工具，公用"]
+  },
+  {
+    "name": "migrate",
+    "trans": ["verb: 迁移，迁徙，移居，迁"]
+  },
+  {
+    "name": "priority",
+    "trans": ["noun: 优先，优先级，优先权，优先考虑，优先事项，优先次序，当务之急，重点，首要"]
+  },
+  {
+    "name": "relay",
+    "trans": ["noun: 继电器，继电，中继，接力，接力赛，中转 verb: 转播，转达"]
+  },
+  {
+    "name": "origin",
+    "trans": ["noun: 起源，原产地，渊源，由来，产地，成因，缘起，来源，根源，源"]
+  },
+  {
+    "name": "budget",
+    "trans": ["noun: 预算，预算案，财政预算案，财政预算，份预算案，份财政预算案，收支，财政，经费"]
+  },
+  {
+    "name": "fulfillment",
+    "trans": ["noun: 履行，成就感，满足感，实现，圆满"]
+  },
+  {
+    "name": "tablet",
+    "trans": ["noun: 平板电脑，片，片剂，碑，平板，药片，石碑，牌匾"]
+  },
+  {
+    "name": "boost",
+    "trans": ["verb: 提振，促进，提高，推动，刺激，增加，增强，推进 noun: 升压"]
+  },
+  {
+    "name": "comic",
+    "trans": ["adj: 漫画，喜剧，连环漫画，连环画，动漫，相声，喜剧演员，滑稽，可笑"]
+  },
+  {
+    "name": "drill",
+    "trans": ["noun: 钻，演习，钻头，演练，钻机，钻孔，操练，训练 verb: 钻取，钻探"]
+  },
+  {
+    "name": "divide",
+    "trans": ["noun: 鸿沟，分歧 verb: 划分，分裂，分割，分化，分开，除"]
+  },
+  {
+    "name": "acknowledge",
+    "trans": ["verb: 承认，答谢，认"]
+  },
+  {
+    "name": "adapter",
+    "trans": ["noun: 适配器，适配，配器，网卡，接头"]
+  },
+  {
+    "name": "anonymous",
+    "trans": ["adj: 匿名，无名氏，无名，默默无闻"]
+  },
+  {
+    "name": "manipulate",
+    "trans": ["verb: 操纵，操控，操作"]
+  },
+  {
+    "name": "productive",
+    "trans": ["adj: 生产性，富有成效，生产，生产力，高产，成效，高效，产，生产率"]
+  },
+  {
+    "name": "deck",
+    "trans": ["noun: 甲板，桥面，露台，装点"]
+  },
+  {
+    "name": "carry",
+    "trans": ["verb: 携带，随身携带，进行，带，带着，背，搬，提"]
+  },
+  {
+    "name": "equip",
+    "trans": ["verb: 装备，配备，武装"]
+  },
+  {
+    "name": "royalty",
+    "trans": ["noun: 版税，皇室，皇族，皇室成员，提成，特许权使用费，王室，贵族，皇家"]
+  },
+  {
+    "name": "relate",
+    "trans": ["verb: 涉及到，涉及，关系到，与"]
+  },
+  {
+    "name": "recreate",
+    "trans": ["verb: 重现，再现，重建，重演"]
+  },
+  {
+    "name": "digest",
+    "trans": ["verb: 消化，消化吸收 noun: 文摘，摘要，月刊"]
+  },
+  {
+    "name": "committee",
+    "trans": ["noun: 委员会，委，委员，事务委员会"]
+  },
+  {
+    "name": "episode",
+    "trans": ["noun: 情节，插曲，小插曲，集，发作，发病，片段"]
+  },
+  {
+    "name": "fortunate",
+    "trans": ["adj: 幸运，幸，有幸，不幸，庆幸，走运"]
+  },
+  {
+    "name": "attribute",
+    "trans": ["noun: 属性，定语"]
+  },
+  {
+    "name": "conclusion",
+    "trans": ["noun: 结论，结语，得出结论，总结"]
+  },
+  {
+    "name": "migration",
+    "trans": ["noun: 迁移，运移，迁徙，移民，偏移，人口迁移，移植，运"]
+  },
+  {
+    "name": "guideline",
+    "trans": ["noun: 指引，指南，指导原则，指导方针，方针，准则，导则，指导思想"]
+  },
+  {
+    "name": "primitive",
+    "trans": ["adj: 原始，本原，简陋"]
+  },
+  {
+    "name": "reality",
+    "trans": ["noun: 现实，实相，真人，现实性，事实，真实，实际，实际情况，实际上，实在"]
+  },
+  {
+    "name": "swallow",
+    "trans": ["noun: 燕子，小燕子，燕 verb: 吞下，吞，吞咽，吞下去，下咽，咽，吞噬"]
+  },
+  {
+    "name": "column",
+    "trans": ["noun: 列，柱，专栏，栏，栏目，纵队，立柱，专栏文章，塔，柱子，圆柱"]
+  },
+  {
+    "name": "prototype",
+    "trans": ["noun: 原型，样机，原形，雏形，试制"]
+  },
+  {
+    "name": "foul",
+    "trans": ["adj: 犯规，污浊，肮脏，臭，罚球，污秽，恶臭"]
+  },
+  {
+    "name": "expense",
+    "trans": ["noun: 费用，牺牲，支出，开支，消费，代价，开销，花费，费，经费"]
+  },
+  {
+    "name": "candidate",
+    "trans": ["noun: 候选人，候选，人选，应聘者，候选者，应试者，考生，求职者"]
+  },
+  {
+    "name": "celebrate",
+    "trans": ["verb: 庆祝，庆贺，欢庆，庆祝一番，欢度，颂扬，赞美，祝贺"]
+  },
+  {
+    "name": "impressive",
+    "trans": ["adj: 令人印象深刻，印象深刻，骄人，可观，感人，惊人，引人注目，了不起，深刻"]
+  },
+  {
+    "name": "couple",
+    "trans": ["noun: 夫妇，情侣，夫妻，两三，几个，两，一对，几，两个，数"]
+  },
+  {
+    "name": "brilliant",
+    "trans": ["adj: 辉煌，灿烂，才华横溢，光辉，精彩，聪明，杰出，出色，卓越，优秀"]
+  },
+  {
+    "name": "upper",
+    "trans": ["adj: 上部，上层，上，鞋面，上面，上位，上游，上方，高层，上限"]
+  },
+  {
+    "name": "agenda",
+    "trans": ["noun: 议程，议事日程，日程，会议议程，日程表，议题，纲领，日程安排"]
+  },
+  {
+    "name": "entrepreneurial",
+    "trans": ["adj: 创业，企业家，进取，企业化，创业精神，企业家精神，积极进取"]
+  },
+  {
+    "name": "sufficient",
+    "trans": ["adj: 足够，充足，充分，足以，足，充裕"]
+  },
+  {
+    "name": "glance",
+    "trans": ["noun: 一目了然，一瞥，目光，眼，扫视，浏览，乍一看，淡漠，眼神，眼光"]
+  },
+  {
+    "name": "identity",
+    "trans": ["noun: 身份，认同，同一性，标识，身分，身份认同，认同感，形象，识别"]
+  },
+  {
+    "name": "fairly",
+    "trans": ["adv: 相当，公平，公正"]
+  },
+  {
+    "name": "strengthen",
+    "trans": ["verb: 加强，强化，增强，巩固，加大"]
+  },
+  {
+    "name": "promotion",
+    "trans": ["noun: 推广，晋升，促进，促销，升职，提升，升迁，宣传，推动，推进，升级"]
+  },
+  {
+    "name": "membership",
+    "trans": ["noun: 会员卡，会员，会员资格，会籍，成员，隶属，隶属度，入会，籍，成员国"]
+  },
+  {
+    "name": "participant",
+    "trans": ["noun: 参与者，与会者，嘉宾，参赛者"]
+  },
+  {
+    "name": "automatically",
+    "trans": ["adv: 自动"]
+  },
+  {
+    "name": "therefore",
+    "trans": ["adv: 因此，所以，因而，为此，故此，故，于是"]
+  },
+  {
+    "name": "clip",
+    "trans": ["noun: 剪辑，夹，夹子，剪贴，片段，短片，修剪"]
+  },
+  {
+    "name": "proportional",
+    "trans": ["adj: 比例，正比，均衡，相称"]
+  },
+  {
+    "name": "contender",
+    "trans": ["noun: 竞争者，角逐"]
+  },
+  {
+    "name": "weakness",
+    "trans": ["noun: 弱点，软弱，疲软，虚弱，无力，缺点，疲弱，弱势，薄弱，脆弱"]
+  },
+  {
+    "name": "crash",
+    "trans": ["noun: 崩溃，坠毁，失事，坠机，撞车，崩盘，碰撞，速成，车祸，撞击，事故"]
+  },
+  {
+    "name": "integrate",
+    "trans": ["verb: 整合，集成，融入，融合"]
+  },
+  {
+    "name": "squeeze",
+    "trans": ["verb: 挤，挤出，榨，榨取，捏 noun: 挤压，紧缩，压榨"]
+  },
+  {
+    "name": "propagate",
+    "trans": ["verb: 传播，宣传，繁殖，宣扬，繁衍"]
+  },
+  {
+    "name": "threshold",
+    "trans": ["noun: 阈值，门槛，门限，阈，门限值，临界，界限，起点"]
+  },
+  {
+    "name": "ability",
+    "trans": ["noun: 能力，才能，力，技能"]
+  },
+  {
+    "name": "formation",
+    "trans": ["noun: 形成，地层，编队，生成，组建，成因，构成，形态，组"]
+  },
+  {
+    "name": "advocate",
+    "trans": ["noun: 倡导，主张，倡导者，崇尚，拥护者，主，代言人 verb: 提倡，鼓吹，倡议"]
+  },
+  {
+    "name": "augment",
+    "trans": ["verb: 增大，增加"]
+  },
+  {
+    "name": "bracket",
+    "trans": ["noun: 支架，托架，托槽，括号，架"]
+  },
+  {
+    "name": "adventure",
+    "trans": ["noun: 冒险，探险，历险，奇遇，历险记，惊险"]
+  },
+  {
+    "name": "anxiety",
+    "trans": ["noun: 焦虑，焦虑症，焦虑情绪，忧虑，焦虑症状，焦虑不安，不安，焦急，担忧"]
+  },
+  {
+    "name": "convince",
+    "trans": ["verb: 说服，信服，劝服，劝，劝说"]
+  },
+  {
+    "name": "generic",
+    "trans": ["adj: 泛型，通用，一般，一般性，普通，仿制，共性，常规"]
+  },
+  {
+    "name": "distribute",
+    "trans": ["verb: 分发，分配，派发，分布，散发，发放，散布，分销，发行 noun: 分布式"]
+  },
+  {
+    "name": "decouple",
+    "trans": ["noun: 解耦 verb: 耦"]
+  },
+  {
+    "name": "fluid",
+    "trans": ["noun: 流体，液，液体 adj: 流，体液，流畅，流动，流动性"]
+  },
+  {
+    "name": "transmit",
+    "trans": ["verb: 传输，传送，传递，传播，发送，传达，转发 noun: 发射，传导"]
+  },
+  {
+    "name": "transform",
+    "trans": ["noun: 变换，转换，变革 verb: 转化，转变，改造，改变，转型"]
+  },
+  {
+    "name": "interview",
+    "trans": ["noun: 面试，采访，访谈，面谈，专访，接受采访时，访问，接见，访，会见"]
+  },
+  {
+    "name": "contract",
+    "trans": ["noun: 合同，契约，合约，承包，收缩"]
+  },
+  {
+    "name": "internal",
+    "trans": ["adj: 内部，内，内在，对内，内置，国内"]
+  },
+  {
+    "name": "quiz",
+    "trans": ["noun: 测验，智力竞赛，问答游戏，问答比赛，小考，问答，提问，试卷"]
+  },
+  {
+    "name": "flexible",
+    "trans": ["adj: 灵活，柔性，挠性，弹性，灵活多变，灵活性，柔韧，软，柔，柔软"]
+  },
+  {
+    "name": "umbrella",
+    "trans": ["noun: 伞，雨伞，保护伞，伞形，阳伞"]
+  },
+  {
+    "name": "endure",
+    "trans": ["verb: 忍受，忍耐，忍，承受，忍住，经受，容忍，持续下去 noun: 熬"]
+  },
+  {
+    "name": "metro",
+    "trans": ["noun: 地铁，城域，麦德龙，新城"]
+  },
+  {
+    "name": "observe",
+    "trans": ["verb: 观察，遵守，观测，守"]
+  },
+  {
+    "name": "enforce",
+    "trans": ["verb: 强制执行，执行，实施，强制，执法"]
+  },
+  {
+    "name": "parallel",
+    "trans": ["adj: 并行，平行，并联，并列"]
+  },
+  {
+    "name": "infer",
+    "trans": ["verb: 推断，推断出，推知，想见，推导出"]
+  },
+  {
+    "name": "survive",
+    "trans": ["verb: 生存，求生存，生存下去，存活，活下来，存活下来，幸存，幸存下来，活下去，生还，活"]
+  },
+  {
+    "name": "practical",
+    "trans": ["adj: 实用，实际，实践，切实可行，现实，实用性，务实，实务，可行，实证"]
+  },
+  {
+    "name": "specification",
+    "trans": ["noun: 规范，规格，说明书"]
+  },
+  {
+    "name": "inevitable",
+    "trans": ["adj: 不可避免，必然，在所难免，难免，不可避免地，必然性，必定"]
+  },
+  {
+    "name": "endorse",
+    "trans": ["verb: 赞同，背书，认可，批注，赞成，支持"]
+  },
+  {
+    "name": "shipment",
+    "trans": ["noun: 装运，装船，出货，发货，批货，货，发运，货物，交货，运输，运"]
+  },
+  {
+    "name": "inherent",
+    "trans": ["adj: 固有，内在，与生俱来，先天，天生"]
+  },
+  {
+    "name": "sustainable",
+    "trans": ["adj: 永续，持续，可持续性，可持续发展，持久，持续下去"]
+  },
+  {
+    "name": "profit",
+    "trans": ["noun: 利润，营利，盈利，营利性，获利，赢利，收益，利益，利，效益"]
+  },
+  {
+    "name": "corporation",
+    "trans": ["noun: 公司，法团，总公司，企业，集团公司，法人，有限公司，集团"]
+  },
+  {
+    "name": "progressive",
+    "trans": ["adj: 渐进，进步，累进，渐进式，逐步，进取，逐渐 noun: 进"]
+  },
+  {
+    "name": "enhance",
+    "trans": ["verb: 提高，增强，加强，提升，增进，强化，促进，增加，改善"]
+  },
+  {
+    "name": "abundance",
+    "trans": ["noun: 丰度，富足，丰富，丰盈，丰，充裕，充足，富裕"]
+  },
+  {
+    "name": "suspect",
+    "trans": ["verb: 怀疑，疑心，猜想，猜 noun: 嫌疑犯，嫌犯，疑犯，嫌疑人，犯罪嫌疑人 adj: 可疑"]
+  },
+  {
+    "name": "relative",
+    "trans": ["adj: 相对，相关，亲戚，亲属，相应，亲人，相"]
+  },
+  {
+    "name": "aside",
+    "trans": ["adv: 一旁，一边，预留，抛开，旁白，搁置，之外，放下，旁边"]
+  },
+  {
+    "name": "outline",
+    "trans": ["noun: 大纲，轮廓，提纲，纲要，概述，纲，概要，外形，概况，要点 verb: 概括"]
+  },
+  {
+    "name": "spice",
+    "trans": ["noun: 香料，调味品，香辛料，辣妹，调味剂，情趣，调料，调味料，趣味"]
+  },
+  {
+    "name": "deny",
+    "trans": ["verb: 否认，否定，拒绝，抵赖，剥夺"]
+  },
+  {
+    "name": "mew",
+    "trans": ["noun: 喵，巢"]
+  },
+  {
+    "name": "convey",
+    "trans": ["verb: 传达，转达，传递，表达 noun: 输送"]
+  },
+  {
+    "name": "recommend",
+    "trans": ["verb: 推荐，建议"]
+  },
+  {
+    "name": "cheat",
+    "trans": ["verb: 作弊，欺骗，骗，骗人，出轨，忠，背叛 noun: 骗子，备忘，欺诈"]
+  },
+  {
+    "name": "despite",
+    "trans": ["prep: 尽管"]
+  },
+  {
+    "name": "observation",
+    "trans": ["noun: 观察，观测，观察力"]
+  },
+  {
+    "name": "jail",
+    "trans": ["noun: 监狱，坐牢，牢里，蹲监狱，大牢，监禁，狱，入狱，监牢，出狱，牢"]
+  },
+  {
+    "name": "regardless",
+    "trans": ["adv: 无论，不管，不论，不顾，无论如何，无关，不管怎样"]
+  },
+  {
+    "name": "variable",
+    "trans": ["noun: 变量，变数 adj: 可变，变，变动"]
+  },
+  {
+    "name": "stage",
+    "trans": ["noun: 阶段，舞台，期，台上，级，末期，分期，段，台，时期"]
+  },
+  {
+    "name": "constant",
+    "trans": ["adj: 恒，常数，恒定，不断，常量，常，持续，定，固定，经常"]
+  },
+  {
+    "name": "infrastructure",
+    "trans": ["noun: 基础设施，基建，基础设施建设，基建设施，基本建设，设施，基础，架构"]
+  },
+  {
+    "name": "vocabulary",
+    "trans": ["noun: 词汇，词汇量，词汇表，语汇，字汇，单词，词语"]
+  },
+  {
+    "name": "valuable",
+    "trans": ["adj: 宝贵，珍贵，可贵，值钱，贵重，价值，名贵，有用，有益"]
+  },
+  {
+    "name": "legal",
+    "trans": ["adj: 法律，合法，法定，法制，法理，法治，法人，法学，司法，法"]
+  },
+  {
+    "name": "superior",
+    "trans": ["adj: 优越，上级，优于，上乘，卓越，上司，高级，优，优良，优势"]
+  },
+  {
+    "name": "trend",
+    "trans": ["noun: 趋势，潮流，走势，趋向，动向，走向，态势，方向，思潮，倾向"]
+  },
+  {
+    "name": "evaluate",
+    "trans": ["verb: 评价，评估，探讨，评定，衡量"]
+  },
+  {
+    "name": "manifest",
+    "trans": ["adj: 清单，显现 verb: 体现 noun: 名单"]
+  },
+  {
+    "name": "wager",
+    "trans": ["noun: 下注，赌注，赌，赌局，打赌 verb: 敢打赌"]
+  },
+  {
+    "name": "collective",
+    "trans": ["adj: 集体，共同，集体主义，集合，群体"]
+  },
+  {
+    "name": "discard",
+    "trans": ["verb: 丢弃，抛弃，摒弃，舍弃，废弃，弃，扔掉 noun: 报废"]
+  },
+  {
+    "name": "accessory",
+    "trans": ["noun: 附件，配件，配饰，辅料 adj: 配套，副，附属，饰品"]
+  },
+  {
+    "name": "belief",
+    "trans": ["noun: 信念，信仰，相信，信心，信任"]
+  },
+  {
+    "name": "effortless",
+    "trans": ["adj: 轻松 noun: 费力，轻而易举"]
+  },
+  {
+    "name": "invoke",
+    "trans": ["verb: 调用，援引，祈求，召唤 noun: 敕"]
+  },
+  {
+    "name": "rotten",
+    "trans": ["adj: 烂，腐烂，臭，腐朽，烂掉，堕落，腐败，腐"]
+  },
+  {
+    "name": "attention",
+    "trans": ["noun: 注意，注意力，关注，重视，瞩目，留意，注意事项，注重，目光，关心，照顾"]
+  },
+  {
+    "name": "manufacturer",
+    "trans": ["noun: 制造商，生产厂家，生产商，厂商，厂家，生产，制造厂，制造厂商"]
+  },
+  {
+    "name": "strategy",
+    "trans": ["noun: 策略，战略，对策"]
+  },
+  {
+    "name": "adhere",
+    "trans": ["verb: 坚持，奉行，遵循，遵守，附着 noun: 恪守"]
+  },
+  {
+    "name": "radius",
+    "trans": ["noun: 半径，桡骨，方圆，径，范围内"]
+  },
+  {
+    "name": "continuous",
+    "trans": ["adj: 连续，持续，不断，连，连续性，继续"]
+  },
+  {
+    "name": "benefit",
+    "trans": ["noun: 效益，利益，好处，造福，益处，收益，福利 verb: 受益，获益，得益，有利于"]
+  },
+  {
+    "name": "abuse",
+    "trans": ["noun: 滥用，虐待，滥用职权，辱骂，虐，侵犯，恶习，弊端 verb: 骂"]
+  },
+  {
+    "name": "break",
+    "trans": ["verb: 打破，分手，破，断，破坏，伤 noun: 休息，突破，中断，断裂"]
+  },
+  {
+    "name": "approach",
+    "trans": ["noun: 方法，途径，做法，方针，方式，办法，探讨，法，态度，手段 verb: 接近"]
+  },
+  {
+    "name": "sculpture",
+    "trans": ["noun: 雕塑，雕刻，雕塑艺术，雕塑品，雕塑作品，雕，雕刻品，雕像，塑像"]
+  },
+  {
+    "name": "certificate",
+    "trans": ["noun: 证书，证明书，证，合格证书，证明，凭证，合格证，证件，认证"]
+  },
+  {
+    "name": "passive",
+    "trans": ["adj: 被动，消极 noun: 被动式，钝化"]
+  },
+  {
+    "name": "instrument",
+    "trans": ["noun: 仪器，仪表，仪，乐器，文书，工具，器械，手段"]
+  },
+  {
+    "name": "approve",
+    "trans": ["verb: 批准，赞成，赞同，同意，审批，核准，认同，认可"]
+  },
+  {
+    "name": "occasional",
+    "trans": ["adj: 偶尔，偶然，应景，偶发，偶遇，托，偶，不时，暂"]
+  },
+  {
+    "name": "complexity",
+    "trans": ["noun: 复杂性，复杂，复杂化"]
+  },
+  {
+    "name": "animate",
+    "trans": ["verb: 动画"]
+  },
+  {
+    "name": "natural",
+    "trans": ["adj: 自然，天然，天生，固有，自然界，正常"]
+  },
+  {
+    "name": "affect",
+    "trans": ["verb: 影响"]
+  },
+  {
+    "name": "execution",
+    "trans": ["noun: 执行，行刑，处决，执行死刑，实施，死刑，执法，施行"]
+  },
+  {
+    "name": "detail",
+    "trans": ["noun: 细节，详细，细部，明细，详尽，详述，具体，详情，细致"]
+  },
+  {
+    "name": "responsive",
+    "trans": ["adj: 反应灵敏，响应，回应，作出响应，顺应，应答，负责任，灵敏"]
+  },
+  {
+    "name": "variation",
+    "trans": ["noun: 变异，变化，变体，变动，差异，变异性，变更"]
+  },
+  {
+    "name": "duplicate",
+    "trans": ["verb: 重复，复制 noun: 复本，副本，复制品"]
+  },
+  {
+    "name": "fake",
+    "trans": ["adj: 假，假冒，假货，赝品，伪造，虚假，伪，虚伪 verb: 假装，伪装"]
+  },
+  {
+    "name": "implication",
+    "trans": ["noun: 意蕴，蕴涵，含义，涵义，寓意，启示，含意，意义，内涵，暗示"]
+  },
+  {
+    "name": "arbitrary",
+    "trans": ["adj: 任意，武断，随意，专断，随心所欲，随意性，专横"]
+  },
+  {
+    "name": "prominence",
+    "trans": ["noun: 日珥，突出，突显，突起，声望"]
+  },
+  {
+    "name": "silicon",
+    "trans": ["noun: 硅，矽，硅片，硅胶"]
+  },
+  {
+    "name": "beloved",
+    "trans": ["adj: 心爱，敬爱，挚爱，亲爱的，宠儿，爱人，钟爱，爱戴"]
+  },
+  {
+    "name": "simulation",
+    "trans": ["noun: 仿真，模拟"]
+  },
+  {
+    "name": "creation",
+    "trans": ["noun: 创作，创造，创建，造物，创新，创立，生成，创意"]
+  },
+  {
+    "name": "exact",
+    "trans": ["adj: 确切，精确，准确，具体"]
+  },
+  {
+    "name": "audit",
+    "trans": ["noun: 审计，审核，稽核，审，审查"]
+  },
+  {
+    "name": "hint",
+    "trans": ["noun: 提示，暗示，淡淡，一丝，抹"]
+  },
+  {
+    "name": "amount",
+    "trans": ["noun: 金额，量，数额，数量，款额，额，用量，总量，多少"]
+  },
+  {
+    "name": "capability",
+    "trans": ["noun: 能力，性能，功能，容量"]
+  },
+  {
+    "name": "caution",
+    "trans": ["noun: 谨慎，警告，小心，谨慎行事，警示，慎，告诫，小心谨慎，注意事项 verb: 提醒"]
+  },
+  {
+    "name": "particular",
+    "trans": ["adj: 特定，特别，特殊，特别是，尤其是，尤其，具体，个别，独特，某"]
+  },
+  {
+    "name": "escape",
+    "trans": ["verb: 逃脱，逃避，逃跑，逃走，逃离，逃，躲避，摆脱 noun: 逃生，逃逸，越狱"]
+  },
+  {
+    "name": "impress",
+    "trans": ["verb: 打动，留下深刻印象，讨好，印象深刻，印象，取悦"]
+  },
+  {
+    "name": "perform",
+    "trans": ["verb: 执行，履行，表演，演出，完成，表现"]
+  },
+  {
+    "name": "evolution",
+    "trans": ["noun: 演化，演变，进化，演进，进化论，嬗变，沿革，变迁，进展"]
+  },
+  {
+    "name": "fitness",
+    "trans": ["noun: 健身，体能，身体素质，健美，体质，适应性，适"]
+  },
+  {
+    "name": "determine",
+    "trans": ["verb: 确定，决定，判断，测定，判定"]
+  },
+  {
+    "name": "detection",
+    "trans": ["noun: 检测，探测，侦测，检，侦查，测定，监测，识别"]
+  },
+  {
+    "name": "breakdown",
+    "trans": ["noun: 击穿，故障，崩溃，细目，分解，破裂，细分，划分"]
+  },
+  {
+    "name": "transient",
+    "trans": ["noun: 瞬态，暂态，瞬变，非稳态 adj: 瞬时，短暂，瞬间，过渡，暂时"]
+  },
+  {
+    "name": "advantage",
+    "trans": ["noun: 优势，优点，好处，有利条件，优越性，有利，利益"]
+  },
+  {
+    "name": "grid",
+    "trans": ["noun: 网格，电网，栅格，板栅，格，栅，格子，格栅，栅极，网"]
+  },
+  {
+    "name": "identify",
+    "trans": ["verb: 识别，确定，标识，找出，鉴别，辨认，辨别，确认，鉴定，辨识"]
+  },
+  {
+    "name": "scratch",
+    "trans": ["noun: 划伤，划痕，刮，刮伤，抓伤，抓痕，从无到有，擦伤 verb: 挠，搔，抓"]
+  },
+  {
+    "name": "brew",
+    "trans": ["verb: 冲泡，酝酿 noun: 酿造，酿，沏，酿制，酿酒"]
+  },
+  {
+    "name": "consider",
+    "trans": ["verb: 考虑，否考虑，认为，思考，审议"]
+  },
+  {
+    "name": "neglect",
+    "trans": ["noun: 忽视，疏忽，疏忽照顾，疏于，轻视，漠视，无视 verb: 忽略，怠慢，荒废"]
+  },
+  {
+    "name": "mock",
+    "trans": ["verb: 嘲笑，嘲弄，取笑，戏弄 adj: 模拟，模仿，版面 noun: 素"]
+  },
+  {
+    "name": "emerge",
+    "trans": ["verb: 出现，浮现，涌现，显现，崛起"]
+  },
+  {
+    "name": "container",
+    "trans": ["noun: 容器，集装箱，货柜，箱"]
+  },
+  {
+    "name": "partial",
+    "trans": ["adj: 偏，部分，局部，分批，片面，分，部份，偏爱"]
+  },
+  {
+    "name": "appropriate",
+    "trans": ["adj: 适当，合适，恰当，相应，适宜，适合，适度，适用，合理"]
+  },
+  {
+    "name": "accomplish",
+    "trans": ["verb: 完成，做到，成就，达成"]
+  },
+  {
+    "name": "plug",
+    "trans": ["noun: 插头，塞，插，塞子，插件，插座，堵，充电 verb: 堵塞，插入，填补"]
+  },
+  {
+    "name": "realistic",
+    "trans": ["adj: 现实，逼真，求实，写实，现实主义，切合实际，实事求是，真实，实际，现实性，务实"]
+  },
+  {
+    "name": "inclusive",
+    "trans": ["adj: 包容，全纳，独占，纳入"]
+  },
+  {
+    "name": "reach",
+    "trans": ["verb: 达到，到达，达成，达，抵达，接触"]
+  },
+  {
+    "name": "whisper",
+    "trans": ["noun: 耳语，低语，私语，窃窃私语，呢喃，小声，细语，嘀咕，悄悄，低声"]
+  },
+  {
+    "name": "reverse",
+    "trans": ["adj: 逆向，反求 verb: 反向，扭转，逆转，反，反转，逆 noun: 相反，倒"]
+  },
+  {
+    "name": "hierarchy",
+    "trans": ["noun: 层次结构，层次，层级，等级，分层，阶层"]
+  },
+  {
+    "name": "intelligence",
+    "trans": ["noun: 情报，智力，智能，智慧，智商，情报局，智能化，才智，聪明"]
+  },
+  {
+    "name": "category",
+    "trans": ["noun: 类别，范畴，类，品类，分类，一类，种类，门类，目录"]
+  },
+  {
+    "name": "arise",
+    "trans": ["verb: 出现，升起"]
+  },
+  {
+    "name": "trick",
+    "trans": ["noun: 把戏，伎俩，诀窍，戏法，诡计，招，窍门，魔术，技巧 verb: 欺骗，骗"]
+  },
+  {
+    "name": "innovative",
+    "trans": ["adj: 创新，新颖，革新，创意"]
+  },
+  {
+    "name": "appear",
+    "trans": ["verb: 出现，显得，显现，显示，看起来，呈现，似乎，看来，看上去"]
+  },
+  {
+    "name": "persistent",
+    "trans": ["adj: 持久，执着，持续，坚持不懈，宿，执著，永久，永久性"]
+  },
+  {
+    "name": "consistent",
+    "trans": ["adj: 一致，一贯，相一致，始终如一，一致性，相符，连贯，统一"]
+  },
+  {
+    "name": "appreciative",
+    "trans": ["adj: 感激，欣赏，赞赏，赏识"]
+  },
+  {
+    "name": "resolution",
+    "trans": ["noun: 分辨率，决议，决议案，分辨，分辨力，项决议案，解决，解析，决心，解决方案"]
+  },
+  {
+    "name": "emulate",
+    "trans": ["verb: 效仿，仿效，模仿，效法，赶超"]
+  },
+  {
+    "name": "effective",
+    "trans": ["adj: 有效，行之有效，高效，效益，生效，有效性，效果，有力，效率"]
+  },
+  {
+    "name": "argue",
+    "trans": ["verb: 争辩，争论，辩，争吵，吵架，认为，争，吵，辩论，主张"]
+  },
+  {
+    "name": "limitation",
+    "trans": ["noun: 局限性，限制，局限，限度，有限性，时效，缺陷，限，限额，极限"]
+  },
+  {
+    "name": "presence",
+    "trans": ["noun: 存在，在场，面前，光临，出席，临"]
+  },
+  {
+    "name": "significant",
+    "trans": ["adj: 显著，重大，重要，显着，明显，意义，大幅，巨大，严重"]
+  },
+  {
+    "name": "dominance",
+    "trans": ["noun: 统治地位，支配地位，优势，显性，霸主地位，支配，统治，主导，占主导地位，主宰"]
+  },
+  {
+    "name": "crack",
+    "trans": ["noun: 裂纹，裂缝，裂，开裂，裂隙，缝，断裂 verb: 破解，破裂，打击"]
+  },
+  {
+    "name": "existence",
+    "trans": ["noun: 存在，生存"]
+  },
+  {
+    "name": "unlearn",
+    "trans": ["verb: 忘却"]
+  },
+  {
+    "name": "combine",
+    "trans": ["verb: 结合，相结合，组合，合并，联合，整合 noun: 联合收割机"]
+  },
+  {
+    "name": "instruct",
+    "trans": ["verb: 指导，指示，责成，教导"]
+  },
+  {
+    "name": "direction",
+    "trans": ["noun: 方向，方向前进，指示，路向，指导，导向，方位，走向，取向"]
+  },
+  {
+    "name": "remain",
+    "trans": ["verb: 保持，仍然，留，仍，依然，继续，维持，仍是，停留，保留"]
+  },
+  {
+    "name": "expectation",
+    "trans": ["noun: 期望，期待，展望，预期，期望值，意料，期盼"]
+  },
+  {
+    "name": "insight",
+    "trans": ["noun: 洞察力，洞察，有识之士，自知力，洞见，顿悟，见解，见识，眼光"]
+  },
+  {
+    "name": "spin",
+    "trans": ["noun: 自旋，旋转，旋，自转，分拆，纺 verb: 转动，剥离"]
+  },
+  {
+    "name": "infinite",
+    "trans": ["adj: 无限，无穷，无尽，无穷无尽，无边"]
+  },
+  {
+    "name": "anatomy",
+    "trans": ["noun: 解剖，解剖学，剖析"]
+  },
+  {
+    "name": "invoice",
+    "trans": ["noun: 发票，发货票，开票"]
+  },
+  {
+    "name": "furious",
+    "trans": ["adj: 愤怒，大怒，大发雷霆，暴怒，怒不可遏，狂怒，激烈，生气，激情，恼火"]
+  },
+  {
+    "name": "valid",
+    "trans": ["adj: 有效，有效期，合法，正当，有效性"]
+  },
+  {
+    "name": "metric",
+    "trans": ["adj: 公制，度量，十进制，计量，指标，量度"]
+  },
+  {
+    "name": "dormant",
+    "trans": ["adj: 休眠，处于休眠状态，蛰伏，休眠状态，休眠期，冬眠，潜伏，沉睡，沉寂"]
+  },
+  {
+    "name": "recommendation",
+    "trans": ["noun: 推荐，推荐信，建议，推介，建议书"]
+  },
+  {
+    "name": "spill",
+    "trans": ["noun: 泄漏，漏油事件，溢，泄漏事故，溢出，泄露，漏 verb: 洒，溅，泼"]
+  },
+  {
+    "name": "demotion",
+    "trans": ["noun: 降职，降级"]
+  },
+  {
+    "name": "conversion",
+    "trans": ["noun: 转换，换算，转化，转化率，变换，转变，改建，变频，转型"]
+  },
+  {
+    "name": "extract",
+    "trans": ["noun: 提取物，提取液，萃取物，浸膏，摘录，精华，萃取，精 verb: 提取，抽取"]
+  },
+  {
+    "name": "horizon",
+    "trans": ["noun: 地平线，天边，视野，天际，视界，天涯，眼界，水平线，视域"]
+  },
+  {
+    "name": "potential",
+    "trans": ["adj: 潜在，可能 noun: 潜力，电位，潜能，势，潜质，电势，可能性"]
+  },
+  {
+    "name": "amateur",
+    "trans": ["adj: 业余，业余爱好者，业馀，爱好者，外行 noun: 业余选手"]
+  },
+  {
+    "name": "interpret",
+    "trans": ["verb: 解释，解读，诠释，口译，演绎，阐释"]
+  },
+  {
+    "name": "relation",
+    "trans": ["noun: 关系，关联，联系，而言"]
+  },
+  {
+    "name": "distinguish",
+    "trans": ["verb: 区分，分辨，分清，区别，辨别，鉴别，区分开来，判别，识别"]
+  },
+  {
+    "name": "disturbance",
+    "trans": ["noun: 扰动，干扰，障碍，紊乱，骚扰，扰，骚乱，风波，滋扰"]
+  },
+  {
+    "name": "eject",
+    "trans": ["noun: 弹出，弹射，喷射 verb: 逐出"]
+  },
+  {
+    "name": "resume",
+    "trans": ["noun: 简历，履历表，履历，个人简历 verb: 恢复，重启，收回"]
+  },
+  {
+    "name": "cue",
+    "trans": ["noun: 提示，线索"]
+  },
+  {
+    "name": "victim",
+    "trans": ["noun: 受害者，受害人，被害人，牺牲品，死者，被害者，事主，受害，遇难者"]
+  },
+  {
+    "name": "intend",
+    "trans": ["verb: 意愿，打算，拟，有意，意图"]
+  },
+  {
+    "name": "addiction",
+    "trans": ["noun: 成瘾，瘾，上瘾，毒瘾，网瘾，沉溺，烟瘾，沉迷，嗜好"]
+  },
+  {
+    "name": "ingredient",
+    "trans": ["noun: 成分，成份，配料，原料，要素，组成部分，组分"]
+  },
+  {
+    "name": "comprehension",
+    "trans": ["noun: 理解，理解力，领悟，感悟，体会"]
+  },
+  {
+    "name": "inject",
+    "trans": ["verb: 注入，注射，注资，投放"]
+  },
+  {
+    "name": "entertainment",
+    "trans": ["noun: 娱乐，娱乐场所，娱乐节目，娱乐业，游艺，娱，休闲娱乐，娱乐性，文娱，消遣"]
+  },
+  {
+    "name": "distraction",
+    "trans": ["noun: 分心，分散注意力，注意力分散，牵，分神，牵引，消遣"]
+  },
+  {
+    "name": "condition",
+    "trans": ["noun: 条件，状况，状态，条件下，情况，病情，工况，情况下，现状，环境"]
+  },
+  {
+    "name": "semantic",
+    "trans": ["adj: 语义，语意，义，语义学，词义"]
+  },
+  {
+    "name": "survival",
+    "trans": ["noun: 生存，存活，求生存，求生，赖以生存，存活率，成活，存亡，幸存，成活率"]
+  },
+  {
+    "name": "prescribe",
+    "trans": ["verb: 订明，开方，开，处方，开出"]
+  },
+  {
+    "name": "transparent",
+    "trans": ["adj: 透明，具透明度，通透，透明度"]
+  },
+  {
+    "name": "convert",
+    "trans": ["verb: 转换，皈依，转化，换算"]
+  },
+  {
+    "name": "interpreter",
+    "trans": ["noun: 译员，口译员，翻译，传译员，口译，口译人员，解谜"]
+  },
+  {
+    "name": "trivial",
+    "trans": ["adj: 琐碎，微不足道，平凡，小事，琐事，无足轻重，繁琐，无关紧要"]
+  },
+  {
+    "name": "grateful",
+    "trans": ["adj: 感激，感谢，感恩，心存感激，颗感恩，感激不尽，心怀感激，庆幸，多谢"]
+  },
+  {
+    "name": "permission",
+    "trans": ["noun: 许可，权限，准许，允许，同意，批准，审批"]
+  },
+  {
+    "name": "leisure",
+    "trans": ["noun: 休闲，康乐，闲暇，休閒，消闲，余暇，悠闲，闲，空闲，业余"]
+  },
+  {
+    "name": "form",
+    "trans": ["noun: 形式，表单，表格，形态，窗体，表，格式，方式 verb: 形成，构成，组成"]
+  },
+  {
+    "name": "tenure",
+    "trans": ["noun: 任期，终身职位，任期内，任职期间，终身制，租住权，使用权，任职"]
+  },
+  {
+    "name": "alcohol",
+    "trans": ["noun: 酒精，醇，乙醇，酒，酗酒，饮酒，喝酒"]
+  },
+  {
+    "name": "investment",
+    "trans": ["noun: 投资，投入，招商，投资额，投资银行"]
+  },
+  {
+    "name": "principle",
+    "trans": ["noun: 原理，原则，原则上，基本原理，方针，机理，法则，理念，准则"]
+  },
+  {
+    "name": "burst",
+    "trans": ["noun: 爆裂，突发，爆，迸发，破裂，破灭，爆发，一阵，冲，突然，爆炸"]
+  },
+  {
+    "name": "accompany",
+    "trans": ["verb: 陪，陪伴，陪同，伴随，伴，相伴，伴奏"]
+  },
+  {
+    "name": "ambassador",
+    "trans": ["noun: 大使，驻华大使，国宾，驻，形象大使，使者"]
+  },
+  {
+    "name": "ratio",
+    "trans": ["noun: 比率，比例，比，比值，率，配比"]
+  },
+  {
+    "name": "delivery",
+    "trans": ["noun: 交货，交付，送货，发货，分娩，供货，传递，配送，输送，送"]
+  },
+  {
+    "name": "positive",
+    "trans": ["adj: 积极，正面，阳性，正，实证，积极向上，乐观，肯定，良性"]
+  },
+  {
+    "name": "quota",
+    "trans": ["noun: 配额，定额，限额，名额，额度，指标，份额，定量"]
+  },
+  {
+    "name": "blend",
+    "trans": ["noun: 交融，混合，共混，混纺，共混物，融合，混，调和，配方 verb: 融入"]
+  },
+  {
+    "name": "recall",
+    "trans": ["noun: 召回，回收 verb: 记得，回忆，回想一下，回忆起，回想，想起，记起，回顾"]
+  },
+  {
+    "name": "stick",
+    "trans": ["verb: 坚持，粘，棍，贴 noun: 棍子，根棍子，棒，杆"]
+  },
+  {
+    "name": "electric",
+    "trans": ["adj: 电动，电，电气，电力，电热，电子，用电，电工，电场 noun: 电器，电机"]
+  },
+  {
+    "name": "complicate",
+    "trans": ["verb: 复杂化，复杂"]
+  },
+  {
+    "name": "domestic",
+    "trans": ["adj: 国内，国产，家庭，家用，境内，本国，住宅，本土，我国，本地，生活"]
+  },
+  {
+    "name": "growth",
+    "trans": ["noun: 增长，生长，成长，生长发育，增长率，增速，发展，发育"]
+  },
+  {
+    "name": "derive",
+    "trans": ["verb: 派生，推导出，推导，导出，获得，汲取 adj: 衍生"]
+  },
+  {
+    "name": "tide",
+    "trans": ["noun: 潮，潮汐，大潮，浪潮，潮水，潮流，海潮，淘 verb: 渡过"]
+  },
+  {
+    "name": "inference",
+    "trans": ["noun: 推理，推断，推论，推导，推定，论断"]
+  },
+  {
+    "name": "consult",
+    "trans": ["verb: 咨询，征询，请教，查阅，商量，协商，谘询，参考，磋商"]
+  },
+  {
+    "name": "unauthorized",
+    "trans": ["adj: 未经授权，未经许可，违例，未经批准，未获授权，擅自，无权，越权，非法"]
+  },
+  {
+    "name": "competition",
+    "trans": ["noun: 竞争，比赛，竞赛，大赛，竞争力，竞争对手，赛"]
+  },
+  {
+    "name": "collision",
+    "trans": ["noun: 碰撞，相撞，冲撞，冲突，撞击，防撞，撞，撞车，避碰"]
+  },
+  {
+    "name": "announce",
+    "trans": ["verb: 宣布，公布，宣告，揭示，公告"]
+  },
+  {
+    "name": "prominent",
+    "trans": ["adj: 突出，杰出，显赫，著名，凸显，显著，知名，显眼，卓越"]
+  },
+  {
+    "name": "demand",
+    "trans": ["noun: 需求，要求，需求量，需，需要"]
+  },
+  {
+    "name": "deduct",
+    "trans": ["verb: 扣除，演绎，扣，扣减"]
+  },
+  {
+    "name": "conceptual",
+    "trans": ["adj: 概念，概念化，观念，构思"]
+  },
+  {
+    "name": "tidy",
+    "trans": ["adj: 整洁，整齐，干净整洁，条理，泰迪 verb: 整理"]
+  },
+  {
+    "name": "fragility",
+    "trans": ["noun: 脆弱，脆性，易损性"]
+  },
+  {
+    "name": "glossary",
+    "trans": ["noun: 词汇表，词汇，术语词汇，术语"]
+  },
+  {
+    "name": "integration",
+    "trans": ["noun: 集成，整合，一体化，融合，积分，综合，结合，一体，融入"]
+  },
+  {
+    "name": "hang",
+    "trans": ["verb: 挂，杭，吊死，绞死，悬挂，恒 noun: 坑，航"]
+  },
+  {
+    "name": "regulate",
+    "trans": ["verb: 调节，规范，规管，监管，调控，管制，规制，调整"]
+  },
+  {
+    "name": "counterpart",
+    "trans": ["noun: 对口，对应，外长，同行，副本，国防部长"]
+  },
+  {
+    "name": "aforementioned",
+    "trans": ["adj: 上述，前面提到"]
+  },
+  {
+    "name": "chip",
+    "trans": ["noun: 芯片，晶片，切屑，片，筹码，屑，切片，筹，贴片"]
+  },
+  {
+    "name": "reflect",
+    "trans": ["verb: 反映，反映出，体现，反射，反省，反思，折射出，反应"]
+  },
+  {
+    "name": "brand",
+    "trans": ["noun: 品牌，牌，牌子，名牌，商标"]
+  },
+  {
+    "name": "variety",
+    "trans": ["noun: 品种，多种，各种，各种各样，多样性，多样，多样化，种类，种种，变化"]
+  },
+  {
+    "name": "chase",
+    "trans": ["noun: 追逐，大通，蔡斯，追赶，切斯，追捕，追击 verb: 追，追求"]
+  },
+  {
+    "name": "patient",
+    "trans": ["noun: 病人，患者，病患，患 adj: 耐心，忍耐"]
+  },
+  {
+    "name": "kit",
+    "trans": ["noun: 试剂盒，套件，工具箱，包，箱，装备，套装，凯特，组件，配套"]
+  },
+  {
+    "name": "desire",
+    "trans": ["noun: 欲望，愿望，渴望，欲，渴求，心愿，意愿，期望"]
+  },
+  {
+    "name": "internship",
+    "trans": ["noun: 实习，实习期，实习生，见习"]
+  },
+  {
+    "name": "roughly",
+    "trans": ["adv: 大致，大约，粗略，约，大概，大体，大体上，差不多，左右"]
+  },
+  {
+    "name": "drawback",
+    "trans": ["noun: 缺点，退税，弊端，缺憾，弊病"]
+  },
+  {
+    "name": "subject",
+    "trans": ["noun: 主体，主题，学科，课题，科目，话题，题目，对象 adj: 受，受到"]
+  },
+  {
+    "name": "ultimate",
+    "trans": ["adj: 终极，最终，极限，极致，末"]
+  },
+  {
+    "name": "consideration",
+    "trans": ["noun: 考虑，思考，审议，考量，代价"]
+  },
+  {
+    "name": "modify",
+    "trans": ["verb: 修改，修饰，修正，更改"]
+  },
+  {
+    "name": "cluster",
+    "trans": ["noun: 集群，群集，聚类，簇，机群，集束，团簇，星团，群，集聚"]
+  },
+  {
+    "name": "handy",
+    "trans": ["adj: 得心应手，方便，派上用场，手边，便利，简便，好用，手持，有用，轻便，便捷"]
+  },
+  {
+    "name": "reaction",
+    "trans": ["noun: 反应，反作用，化学反应"]
+  },
+  {
+    "name": "appeal",
+    "trans": ["noun: 上诉，吸引力，呼吁，感染力，申诉，诉求，情趣，魅力 verb: 提出上诉，吸引"]
+  },
+  {
+    "name": "conflict",
+    "trans": ["noun: 冲突，矛盾，抵触，争端"]
+  },
+  {
+    "name": "oscilloscope",
+    "trans": ["noun: 示波器"]
+  },
+  {
+    "name": "stark",
+    "trans": ["noun: 斯塔克，史塔克，斯达克 adj: 形成鲜明，鲜明，赤裸裸，严酷"]
+  },
+  {
+    "name": "commercial",
+    "trans": ["adj: 商业，商用，商业性，商务，商业化，商，商品，工业，商业银行 noun: 广告"]
+  },
+  {
+    "name": "lack",
+    "trans": ["noun: 缺乏，缺少，缺失，不足，欠缺，缺，匮乏，不够，短缺"]
+  },
+  {
+    "name": "counsel",
+    "trans": ["noun: 律师，忠告，辩护律师，法律顾问，辩护人，计谋，商议"]
+  },
+  {
+    "name": "frequency",
+    "trans": ["noun: 频率，频，变频，频度，频次，次数，班次，频繁，频谱"]
+  },
+  {
+    "name": "coach",
+    "trans": ["noun: 教练，主教练，教练员，长途汽车，主帅，客车，马车，指导，辅导，巴士 verb: 执教"]
+  },
+  {
+    "name": "erratically",
+    "trans": [""]
+  },
+  {
+    "name": "career",
+    "trans": ["noun: 职业生涯，事业，职业，生涯，职场，就业"]
+  },
+  {
+    "name": "incoming",
+    "trans": ["adj: 传入，来料，进货，接收，引入，进来"]
+  },
+  {
+    "name": "era",
+    "trans": ["noun: 时代，年代，纪元，时期"]
+  },
+  {
+    "name": "bundle",
+    "trans": ["noun: 捆绑，束，捆，包，管束，丛，绑定，包裹"]
+  },
+  {
+    "name": "instruction",
+    "trans": ["noun: 指令，教学，指导，指示，说明书，授课"]
+  },
+  {
+    "name": "fluency",
+    "trans": ["noun: 流利，流畅"]
+  },
+  {
+    "name": "complex",
+    "trans": ["adj: 复杂，复，复合，复数，复杂性，综合 noun: 情结，配合物，复合物"]
+  },
+  {
+    "name": "stitch",
+    "trans": ["noun: 针，针脚，十字绣，缝合，缝，一针一线，针迹，针法"]
+  },
+  {
+    "name": "redundant",
+    "trans": ["adj: 冗余，多余，重复，超额 noun: 冗余度，冗，累赘"]
+  },
+  {
+    "name": "accurate",
+    "trans": ["adj: 准确，精确，精准，准确无误，正确，精度，准，准确性，精密"]
+  },
+  {
+    "name": "universe",
+    "trans": ["noun: 宇宙"]
+  },
+  {
+    "name": "opportunity",
+    "trans": ["noun: 机会，机遇，契机，时机，良机，商机"]
+  },
+  {
+    "name": "obstacle",
+    "trans": ["noun: 障碍，障碍物，阻碍，绊脚石"]
+  },
+  {
+    "name": "proposal",
+    "trans": ["noun: 建议，提案，提议，方案，建议书，求婚"]
+  },
+  {
+    "name": "assistant",
+    "trans": ["noun: 助理，助手，辅助，副，助教，售货员，店员，助剂"]
+  },
+  {
+    "name": "personalize",
+    "trans": ["verb: 个性化，个性化定制"]
+  },
+  {
+    "name": "promote",
+    "trans": ["verb: 促进，推动，推广，推进，提升，提倡，宣传，推销，促使，推行"]
+  },
+  {
+    "name": "lump",
+    "trans": ["noun: 肿块，疙瘩，坨，一次性，瘤，块状"]
+  },
+  {
+    "name": "evolve",
+    "trans": ["verb: 进化，演变，演化，演进，放出"]
+  },
+  {
+    "name": "fault",
+    "trans": ["noun: 故障，错，断层，过错，过失，断，断裂，错误，失误，事故，怪"]
+  },
+  {
+    "name": "defect",
+    "trans": ["noun: 缺陷，缺损，疵点，瑕疵，缺点，缺失，病害"]
+  },
+  {
+    "name": "annoy",
+    "trans": ["verb: 惹恼，烦扰，烦，惹怒，激怒，骚扰"]
+  },
+  {
+    "name": "estimate",
+    "trans": ["noun: 估计，估算，评估，预估，估测，估价，评价，预计，预测，预算"]
+  },
+  {
+    "name": "construct",
+    "trans": ["verb: 构建，构造，建设，建构，构筑，建造，兴建，营造"]
+  },
+  {
+    "name": "ellipsis",
+    "trans": ["noun: 省略号，省略"]
+  },
+  {
+    "name": "simulate",
+    "trans": ["verb: 模拟，仿真，模仿"]
+  },
+  {
+    "name": "stuff",
+    "trans": ["noun: 东西，玩意，玩意儿，事情，事，物品，材料"]
+  },
+  {
+    "name": "outcome",
+    "trans": ["noun: 结果，结局，产物，成果，预后，转归，后果，疗效"]
+  },
+  {
+    "name": "dramatically",
+    "trans": ["adv: 急剧，大幅，大大，显著，戏剧性，大幅度，显着，极大"]
+  },
+  {
+    "name": "absence",
+    "trans": ["noun: 缺席，缺失，缺位，缺乏，缺勤，不在，没有，缺少"]
+  },
+  {
+    "name": "compress",
+    "trans": ["verb: 压缩 noun: 敷"]
+  },
+  {
+    "name": "moderate",
+    "trans": ["adj: 适度，温和，适中，中等，温和派，适量 verb: 缓和"]
+  },
+  {
+    "name": "civil",
+    "trans": ["adj: 民事，民用，公民，民间，土建，民，民事诉讼，市民，土木工程，民法，文明"]
+  },
+  {
+    "name": "segment",
+    "trans": ["noun: 段，管片，节段，分段，细分，分割，片段，分部，环节"]
+  },
+  {
+    "name": "summary",
+    "trans": ["noun: 总结，摘要，综述，汇总，概要，简易，概括，概述，小结，概况，简要"]
+  },
+  {
+    "name": "maintenance",
+    "trans": ["noun: 维护，维修，保养，养护，维修保养，检修，维护保养，维持"]
+  },
+  {
+    "name": "recap",
+    "trans": ["verb: 回顾"]
+  },
+  {
+    "name": "fundamental",
+    "trans": ["adj: 基本，根本，根本性，基础，基波，基本面，基本原理"]
+  },
+  {
+    "name": "agile",
+    "trans": ["adj: 敏捷，灵活，灵敏 noun: 捷"]
+  },
+  {
+    "name": "leap",
+    "trans": ["noun: 飞跃，跃，跳跃，跨越，闰，跨越式，大跃进，跳，跃进，闫，跃升"]
+  },
+  {
+    "name": "messy",
+    "trans": ["adj: 凌乱，杂乱，混乱，乱，零乱，脏乱，乱糟糟，乱七八糟，一团糟，脏，棘手"]
+  },
+  {
+    "name": "electrical",
+    "trans": ["adj: 电气，电，电器，电工，电学，机电，电力，电子，电机，电动，用电"]
+  },
+  {
+    "name": "insist",
+    "trans": ["verb: 坚持，坚称，强求，对峙"]
+  },
+  {
+    "name": "privileged",
+    "trans": ["adj: 特权，享有特权，荣幸，特许"]
+  },
+  {
+    "name": "statistical",
+    "trans": ["adj: 统计，统计学"]
+  },
+  {
+    "name": "behave",
+    "trans": ["verb: 行为，表现，做人，行为举止，守规矩，举止，行事，乖乖，规矩"]
+  },
+  {
+    "name": "serial",
+    "trans": ["adj: 串行，连环，串口，串联，系列，连载，序列，连续，串，系列化"]
+  },
+  {
+    "name": "populate",
+    "trans": ["verb: 填充，填入"]
+  },
+  {
+    "name": "excellent",
+    "trans": ["adj: 优秀，优良，优异，出色，卓越，优，过硬，精良，良好，优质"]
+  },
+  {
+    "name": "mold",
+    "trans": ["noun: 模具，模，结晶器，霉菌，模子，塑造，铸型，霉"]
+  },
+  {
+    "name": "manufacture",
+    "trans": ["noun: 制造，生产，制作，研制，制造业，加工，制备"]
+  },
+  {
+    "name": "specialize",
+    "trans": ["verb: 专门，专门化，专注，擅长，专攻，专营，专业化，专长"]
+  },
+  {
+    "name": "seal",
+    "trans": ["noun: 密封，印章，封，海豹，封印，盖章，密封件，封条，封口，封闭，印"]
+  },
+  {
+    "name": "confuse",
+    "trans": ["verb: 混淆，迷惑，混为一谈，混淆视听，相混淆，搞混，扰乱"]
+  },
+  {
+    "name": "curve",
+    "trans": ["noun: 曲线，曲线图，弯道，曲"]
+  },
+  {
+    "name": "preface",
+    "trans": ["noun: 序言，前言，序文，引言，题记，绪言，引言部分，序，绪论，前奏"]
+  },
+  {
+    "name": "mess",
+    "trans": ["noun: 烂摊子，一团糟，混乱，乱，乱七八糟，一塌糊涂，困境，惹，糟糕 verb: 搞砸"]
+  },
+  {
+    "name": "legacy",
+    "trans": ["noun: 遗留，遗产，遗留下来，遗风，遗赠，旧式，传奇，遗物"]
+  },
+  {
+    "name": "secondary",
+    "trans": ["adj: 二次，二级，次生，次要，继发，次级，中等，中学，辅助，第二，次"]
+  },
+  {
+    "name": "pseudo",
+    "trans": ["noun: 伪，假性，拟，赝，假，伪科学，拟态"]
+  },
+  {
+    "name": "outweigh",
+    "trans": ["verb: 大于，利大于，超过，胜过，多于，淹"]
+  },
+  {
+    "name": "bilingual",
+    "trans": ["adj: 双语，开展双语"]
+  },
+  {
+    "name": "innovation",
+    "trans": ["noun: 创新，革新，改革，变革"]
+  },
+  {
+    "name": "narrator",
+    "trans": ["noun: 旁白，解说员，画外音，讲解员，解说"]
+  },
+  {
+    "name": "temporarily",
+    "trans": ["adv: 暂时，临时，暂，一时，临时性，暂停"]
+  },
+  {
+    "name": "force",
+    "trans": ["noun: 力，力量，武力，力量雄厚，受力，部队，动力 verb: 强迫，迫使，强制，逼"]
+  },
+  {
+    "name": "removal",
+    "trans": ["noun: 去除，脱除，除，清除，拆除，搬迁，切除，移除，除去，删除，消除"]
+  },
+  {
+    "name": "revisit",
+    "trans": ["verb: 重温，重新审视，重返，访 noun: 随访，回访"]
+  },
+  {
+    "name": "scale",
+    "trans": ["noun: 规模，尺度，秤，刻度，规模化，鳞片，比例，范围，大规模 verb: 扩展"]
+  },
+  {
+    "name": "sequence",
+    "trans": ["noun: 序列，顺序，层序，序，数列，次序，时序"]
+  },
+  {
+    "name": "convenient",
+    "trans": ["adj: 方便，便利，便捷，方便快捷，简便，便于"]
+  },
+  {
+    "name": "institute",
+    "trans": ["noun: 研究所，学院，研究院，学会，协会，院，院校"]
+  },
+  {
+    "name": "partner",
+    "trans": ["noun: 合作伙伴，伙伴，搭档，伴侣，合伙人，拍档，舞伴，另一半，同伴，配偶，合作"]
+  },
+  {
+    "name": "present",
+    "trans": ["noun: 礼物 adj: 目前，当前，现行，现在，现时，现状，存在，本 verb: 呈现，提出"]
+  },
+  {
+    "name": "allocation",
+    "trans": ["noun: 分配，配置，编配，分摊，调配，拨款，分派，配"]
+  },
+  {
+    "name": "property",
+    "trans": ["noun: 财产，属性，物业，性能，房地产，产权，性质，地产，特性，资产，性"]
+  },
+  {
+    "name": "grant",
+    "trans": ["noun: 格兰特，补助金，批予，批出，拨款，批，授权 verb: 授予，给予，批准"]
+  },
+  {
+    "name": "reserve",
+    "trans": ["noun: 储备，后备，准备金，预备役，保护区，储量，备用 verb: 保留，预订，预留，预定"]
+  },
+  {
+    "name": "intense",
+    "trans": ["adj: 激烈，强烈，紧张，剧烈，强，浓郁，密集"]
+  },
+  {
+    "name": "process",
+    "trans": ["noun: 过程，工艺，流程，进程，程序，处理，工序，加工"]
+  },
+  {
+    "name": "creep",
+    "trans": ["noun: 蠕变，徐变，蠕，爬行，蠕动，讨厌鬼，流变，蔓延 verb: 爬"]
+  },
+  {
+    "name": "ancestor",
+    "trans": ["noun: 祖先，始祖，老祖宗，祖宗，先人，先祖，祖"]
+  },
+  {
+    "name": "region",
+    "trans": ["noun: 地区，区域，区，地域，域"]
+  },
+  {
+    "name": "responsible",
+    "trans": ["adj: 负责任，负责，责任心，责任感，责任，尽责，负有责任，负责人，承担责任"]
+  },
+  {
+    "name": "simultaneous",
+    "trans": ["adj: 同声，同时，同步，同期，并发，实时，即时"]
+  },
+  {
+    "name": "bubble",
+    "trans": ["noun: 泡沫，气泡，泡泡，泡，汽泡，鼓泡，冒泡，泡沫破灭，水泡"]
+  },
+  {
+    "name": "donation",
+    "trans": ["noun: 捐赠，捐款，捐献，捐助，赠与，募捐，捐，献血，布施"]
+  },
+  {
+    "name": "logic",
+    "trans": ["noun: 逻辑，逻辑学，逻辑性"]
+  },
+  {
+    "name": "survey",
+    "trans": ["noun: 调查，测量，概况，综述，勘测，勘察，调查研究，调研，考察，检验"]
+  },
+  {
+    "name": "liquid",
+    "trans": ["noun: 液体，液，液态，流体 adj: 流动性"]
+  },
+  {
+    "name": "tangible",
+    "trans": ["adj: 有形，切实，实实在在，确凿，实质"]
+  },
+  {
+    "name": "declare",
+    "trans": ["verb: 申报，声明，宣布，宣告，宣称，申明，表白，报关"]
+  },
+  {
+    "name": "emit",
+    "trans": ["verb: 发出，放出，排放，排出，排放量，放射"]
+  },
+  {
+    "name": "analogue",
+    "trans": ["noun: 模拟，类比"]
+  },
+  {
+    "name": "salary",
+    "trans": ["noun: 薪水，工资，薪酬，薪金，薪资，薪，年薪，月薪，薪俸，待遇"]
+  },
+  {
+    "name": "presentation",
+    "trans": ["noun: 演示文稿，演示，演讲，陈述，介绍，呈现，表示，展示，表现，表达"]
+  },
+  {
+    "name": "equipment",
+    "trans": ["noun: 设备，装备，器材，装置，仪器，器械"]
+  },
+  {
+    "name": "demonstrate",
+    "trans": ["verb: 演示，展示，证明，表明，论证，示范，表现出，展现"]
+  },
+  {
+    "name": "appreciate",
+    "trans": ["verb: 欣赏，感激，感谢，升值，赞赏，体会，珍惜，理解，谢谢，明白"]
+  },
+  {
+    "name": "proudly",
+    "trans": ["adv: 傲然，自豪，骄傲，得意洋洋地，得意洋洋，得意"]
+  },
+  {
+    "name": "summit",
+    "trans": ["noun: 峰会，首脑会议，高峰会，高峰会议，山顶，峰顶，顶峰，巅，首脑，高峰"]
+  },
+  {
+    "name": "enormous",
+    "trans": ["adj: 巨大，庞大，极大，巨额"]
+  },
+  {
+    "name": "factor",
+    "trans": ["noun: 因子，因素，因数，要素，系数"]
+  },
+  {
+    "name": "labor",
+    "trans": ["noun: 劳动，劳动力，劳工，劳务，劳力，分娩，劳资，工党，人工，人力"]
+  },
+  {
+    "name": "detect",
+    "trans": ["verb: 检测，探测，侦测，察觉，查出，侦查，发觉"]
+  },
+  {
+    "name": "beyond",
+    "trans": ["prep: 超越，超出"]
+  },
+  {
+    "name": "logical",
+    "trans": ["adj: 逻辑，合乎逻辑，逻辑性，合理"]
+  },
+  {
+    "name": "synchronize",
+    "trans": ["verb: 同步"]
+  },
+  {
+    "name": "protocol",
+    "trans": ["noun: 协议，议定书，规约，协定"]
+  },
+  {
+    "name": "landscape",
+    "trans": ["noun: 景观，风景，山水，园林，园林景观，风景园林，园林绿化，景色，格局，景"]
+  },
+  {
+    "name": "splash",
+    "trans": ["noun: 飞溅，溅，水花，色斑，扑通，溅射，闪，轰动 verb: 泼"]
+  },
+  {
+    "name": "philosophy",
+    "trans": ["noun: 哲学，理念，哲理，人生观"]
+  },
+  {
+    "name": "nucleus",
+    "trans": ["noun: 核，原子核，细胞核，核心，核子，中坚力量"]
+  },
+  {
+    "name": "illustrate",
+    "trans": ["verb: 说明，举例说明，阐明，演示，阐释"]
+  },
+  {
+    "name": "concept",
+    "trans": ["noun: 概念，理念，观念，观，构想"]
+  },
+  {
+    "name": "similarly",
+    "trans": ["adv: 同样，类似，同理，相似"]
+  },
+  {
+    "name": "wonder",
+    "trans": ["noun: 奇迹，难怪，奇怪，惊奇，神奇 verb: 怀疑，纳闷，想，好奇，知"]
+  },
+  {
+    "name": "equivalent",
+    "trans": ["adj: 等效，相当于，等价，当量，等值，等同，相等，同等，相当"]
+  },
+  {
+    "name": "spell",
+    "trans": ["verb: 拼写，拼，拼读 noun: 法术，咒语，魔咒，符咒，咒，魔法，魔力"]
+  },
+  {
+    "name": "repetition",
+    "trans": ["noun: 重复，复读，反复练习，复现，重演，反复，复述"]
+  },
+  {
+    "name": "stale",
+    "trans": ["adj: 陈旧，陈腐，变味，过时，过期，浑浊"]
+  },
+  {
+    "name": "ethical",
+    "trans": ["adj: 伦理，道德，伦理学，伦理道德，合乎道德，职业道德"]
+  },
+  {
+    "name": "response",
+    "trans": ["noun: 响应，反应，回应，应答，应对，反响，回复，答复，回答"]
+  },
+  {
+    "name": "equal",
+    "trans": ["adj: 平等，相等，同等，等于，等同，相当于，等，相同，公平，同样"]
+  },
+  {
+    "name": "bad",
+    "trans": ["adj: 坏，不好，糟糕，糟，不良，恶劣，坏事，差，严重"]
+  },
+  {
+    "name": "horizontal",
+    "trans": ["adj: 水平，卧式，横向，横，卧，水平线 noun: 平，平面"]
+  },
+  {
+    "name": "staff",
+    "trans": ["noun: 员工，工作人员，人员，职员，职工，员工队伍，教职员，人手，员，雇员"]
+  },
+  {
+    "name": "aware",
+    "trans": ["adj: 意识到，知道，知悉，察觉，清楚，注意，了解，感知，明白，意识"]
+  },
+  {
+    "name": "suspend",
+    "trans": ["verb: 暂停，中止，暂时吊销，暂缓 noun: 悬浮"]
+  },
+  {
+    "name": "variant",
+    "trans": ["adj: 变型，变异性 noun: 变体，变种，变异"]
+  },
+  {
+    "name": "enrich",
+    "trans": ["verb: 丰富，充实"]
+  },
+  {
+    "name": "secure",
+    "trans": ["adj: 安全，保密，安心，保障，可靠，安全性 verb: 确保，保护"]
+  },
+  {
+    "name": "elect",
+    "trans": ["verb: 选出，选举，推选，推举 noun: 当选"]
+  },
+  {
+    "name": "expose",
+    "trans": ["verb: 揭露，暴露，揭发，公开，揭穿，曝光，显露，揭示"]
+  },
+  {
+    "name": "correspond",
+    "trans": ["verb: 对应，相对应，相符 noun: 相应，相当于"]
+  },
+  {
+    "name": "specify",
+    "trans": ["verb: 指定，指明，注明，订明"]
+  },
+  {
+    "name": "attend",
+    "trans": ["verb: 出席，参加，就读，参与，照顾"]
+  },
+  {
+    "name": "vacation",
+    "trans": ["noun: 假期，度假，休假，放假，渡假，假，假日，长假"]
+  },
+  {
+    "name": "foundation",
+    "trans": ["noun: 基础，地基，基金会，基，根基，基石，基金，依据，基坑"]
+  },
+  {
+    "name": "subsequent",
+    "trans": ["adj: 后续，随后，其后，后继，后来，以后，接下来，后面，日后"]
+  },
+  {
+    "name": "conform",
+    "trans": ["verb: 符合，顺应，遵循，相符，遵从，遵照"]
+  },
+  {
+    "name": "violet",
+    "trans": ["noun: 紫罗兰，紫罗兰色，紫，紫色，维奥莱特，维尔莉，素兰，紫光，紫外线，薇"]
+  },
+  {
+    "name": "judgement",
+    "trans": ["noun: 判断，判断力，评判，判定，判决，审判，评断，裁决，判别，裁判"]
+  },
+  {
+    "name": "perspective",
+    "trans": ["noun: 视角，透视，角度，角度来看，透视图，视野，观点，前景，展望，看法"]
+  },
+  {
+    "name": "flight",
+    "trans": ["noun: 飞行，航班，班机，外逃，飞机，趟航班，飞，机票，飞翔"]
+  },
+  {
+    "name": "reveal",
+    "trans": ["verb: 揭示，透露，揭露，露出，泄露，展现，暴露"]
+  },
+  {
+    "name": "imagine",
+    "trans": ["verb: 想象，想像，想象一下，试想一下，设想，试想，想到，假设，猜"]
+  },
+  {
+    "name": "emotion",
+    "trans": ["noun: 情感，情绪，感情，感慨，情，激动"]
+  },
+  {
+    "name": "architect",
+    "trans": ["noun: 建筑师，架构师，构架师，设计师"]
+  },
+  {
+    "name": "compatible",
+    "trans": ["adj: 兼容，相容，配伍，相适应，兼容性"]
+  },
+  {
+    "name": "interact",
+    "trans": ["verb: 交互，互动，交流，交往，打交道 noun: 相互作用，交互作用"]
+  },
+  {
+    "name": "intent",
+    "trans": ["noun: 意图，意向，原意，意向书，用意，意愿，故意"]
+  },
+  {
+    "name": "diagram",
+    "trans": ["noun: 图，图表，示意图，框图，图解，图示"]
+  },
+  {
+    "name": "vary",
+    "trans": ["verb: 有所不同，更改，不同，不尽相同，差别，异"]
+  },
+  {
+    "name": "terminate",
+    "trans": ["verb: 终止，中止，解除，终结"]
+  },
+  {
+    "name": "scheme",
+    "trans": ["noun: 方案，计划，格式"]
+  },
+  {
+    "name": "intermediate",
+    "trans": ["adj: 中间，中级，中间体，中介，中等，中期，介"]
+  },
+  {
+    "name": "pragmatic",
+    "trans": ["adj: 语用，务实，语用学，注重实效，求真务实，实用主义，实事求是，踏实，求实，实用"]
+  },
+  {
+    "name": "transition",
+    "trans": ["noun: 过渡，转型，转变，转轨，转换，过渡期，跃迁，变迁，转移，转化"]
+  },
+  {
+    "name": "expansion",
+    "trans": ["noun: 扩张，膨胀，扩展，扩建，扩大，拓展，扩充，扩，展开"]
+  },
+  {
+    "name": "handle",
+    "trans": ["verb: 处理，应付，办理，搞定，对付，应对 noun: 手柄，句柄，柄，把手"]
+  },
+  {
+    "name": "catalog",
+    "trans": ["noun: 目录，编目，编录，目录册，书目"]
+  },
+  {
+    "name": "predictable",
+    "trans": ["adj: 可预见性，意料之中，预测，预见性，可想而知"]
+  },
+  {
+    "name": "acquire",
+    "trans": ["verb: 获得，获取，收购，取得，掌握"]
+  },
+  {
+    "name": "literature",
+    "trans": ["noun: 文学，文献，文学作品，文学史，文献资料，文学奖，文艺，文"]
+  },
+  {
+    "name": "involve",
+    "trans": ["verb: 涉及，涉及到，牵涉，包括，牵扯，包含，介入"]
+  },
+  {
+    "name": "delightful",
+    "trans": ["adj: 令人愉快，愉快，令人愉悦，赏心悦目，可喜，讨人喜欢，宜人，甜美"]
+  },
+  {
+    "name": "intern",
+    "trans": ["noun: 实习生，实习医师，实习医生，实习，见习"]
+  },
+  {
+    "name": "passion",
+    "trans": ["noun: 激情，热情，热爱，充满热情，充满激情，爱好，热忱"]
+  },
+  {
+    "name": "consist",
+    "trans": ["verb: 由，组成，包含"]
+  },
+  {
+    "name": "retain",
+    "trans": ["verb: 保留，留住，挽留，保持，保有，保住"]
+  },
+  {
+    "name": "differ",
+    "trans": ["verb: 不同，有所不同，不一，相差，区别，差别，不等"]
+  },
+  {
+    "name": "chop",
+    "trans": ["verb: 砍，剁，斩，劈，切碎，砍掉，切 noun: 印章，排骨，排"]
+  },
+  {
+    "name": "vacant",
+    "trans": ["adj: 空置，空缺，茫然，空，空房，悬空，空虚，空余，闲置，空闲"]
+  },
+  {
+    "name": "diploma",
+    "trans": ["noun: 文凭，毕业证书，毕业证，毕业文凭，学历，学位证书，大专"]
+  },
+  {
+    "name": "clarify",
+    "trans": ["verb: 澄清，阐明，厘清，作出澄清，理清，明确，弄清"]
+  },
+  {
+    "name": "renaissance",
+    "trans": ["noun: 文艺复兴，文艺复兴时期，复兴，万丽，新生"]
+  },
+  {
+    "name": "associate",
+    "trans": ["adj: 副学士，副，准 noun: 联想，助理，同事 verb: 关联，交往"]
+  },
+  {
+    "name": "vision",
+    "trans": ["noun: 视觉，愿景，视力，视野，远景，远见，眼光，视，设想，理想"]
+  },
+  {
+    "name": "embrace",
+    "trans": ["verb: 拥抱，欣然接受，接受，抱，抱着，信奉，接纳，迎接 noun: 怀抱"]
+  },
+  {
+    "name": "vulnerable",
+    "trans": ["adj: 脆弱，弱势，易受伤害，易受攻击，容易受到伤害，不堪一击，易损，易，容易"]
+  },
+  {
+    "name": "splendor",
+    "trans": ["noun: 辉煌，异彩，荣华富贵，荣华，光彩，壮美，壮丽，光辉"]
+  },
+  {
+    "name": "frustration",
+    "trans": ["noun: 挫折，挫折感，沮丧，挫败感，受挫，无奈，失意，挫败，失望，气愤"]
+  }
+]
