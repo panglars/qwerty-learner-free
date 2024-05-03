@@ -7,6 +7,7 @@
     "@floating-ui/react": "^0.20.1",
     "@headlessui/react": "^1.7.13",
     "@headlessui/tailwindcss": "^0.1.2",
+    "@radix-ui/react-avatar": "^1.0.4",
     "@radix-ui/react-dialog": "^1.0.5",
     "@radix-ui/react-progress": "^1.0.2",
     "@radix-ui/react-radio-group": "^1.1.2",
@@ -61,6 +62,7 @@
     "start": "vite",
     "build": "cross-env CI=false vite build --base=./",
     "test": "echo \"No tests\"",
+    "test:e2e": "playwright test",
     "lint": "eslint .",
     "prettier": "prettier --write .",
     "prepare": "husky install"
@@ -84,6 +86,7 @@
   },
   "devDependencies": {
     "@iconify/json": "^2.2.56",
+    "@playwright/test": "^1.40.1",
     "@svgr/core": "^7.0.0",
     "@svgr/plugin-jsx": "^7.0.0",
     "@tailwindcss/forms": "^0.5.3",
