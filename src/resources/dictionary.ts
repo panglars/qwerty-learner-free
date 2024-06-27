@@ -515,6 +515,17 @@ const internationalExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
+    id: 'gre1500',
+    name: 'GRE重点1500词-fen哥',
+    description: 'GRE & TEM8 重叠高频词汇',
+    category: '国际考试',
+    tags: ['GRE'],
+    url: '/dicts/GRE_1500.json',
+    length: 1533,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'gre3000',
     name: 'GRE3000',
     description: 'GRE3000 词库',
@@ -797,6 +808,17 @@ const internationalExam: DictionaryResource[] = [
     tags: ['IELTS'],
     url: '/dicts/IELTSKingLu807.json',
     length: 1916,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'IELTSXDF7000',
+    name: '100个句子记完7000个雅思单词',
+    description: '新东方 100个句子记完7000个雅思单词 词汇表',
+    category: '国际考试',
+    tags: ['IELTS'],
+    url: '/dicts/IELTS_XDF_7000.json',
+    length: 5567,
     language: 'en',
     languageCategory: 'en',
   },
@@ -3364,6 +3386,32 @@ const germanExam: DictionaryResource[] = [
   },
 ]
 
+// 哈萨克语哈拼词典
+const kazakhHapinDicts: DictionaryResource[] = [
+  {
+    id: 'kazakh_basic_3000_arabic_hapin',
+    name: '基础3000词(老文字版)',
+    description: '哈萨克语基础3000词(哈拼老文字版)',
+    category: '哈萨克语',
+    tags: ['老文字', '哈拼'],
+    url: '/dicts/kazakh_basic_3000_arabic_hapin.json',
+    length: 3002,
+    language: 'hapin',
+    languageCategory: 'kk',
+  },
+  {
+    id: 'kazakh_basic_3000_cyrillic_hapin',
+    name: '基础3000词(西里尔字母版)',
+    description: '哈萨克语基础3000词(哈拼西里尔字母版)',
+    category: '哈萨克语',
+    tags: ['西里尔字母', '哈拼'],
+    url: '/dicts/kazakh_basic_3000_cyrillic_hapin.json',
+    length: 3002,
+    language: 'hapin',
+    languageCategory: 'kk',
+  },
+]
+
 /**
  * Built-in dictionaries in an array.
  * Why arrays? Because it keeps the order across browsers.
@@ -3375,6 +3423,7 @@ export const dictionaryResources: DictionaryResource[] = [
   ...programming,
   ...japaneseExam,
   ...germanExam,
+  ...kazakhHapinDicts,
 
   // {
   //   id: 'zhtest',
